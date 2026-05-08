@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>☀️ Solar Energy Analytics Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        .header h1 { font-size: 2.5em; margin-bottom: 10px; }
+        .header p  { font-size: 1.1em; opacity: 0.9; }
+
+        .content { padding: 40px; }
+
+        .info-box {
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            border-left: 4px solid #1976d2;
+        }
+
+        /* Controls */
+        .controls {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            border: 2px solid #e0e0e0;
+        }
+        .control-group { display: flex; flex-direction: column; }
+        .control-group label { font-weight: 600; margin-bottom: 8px; color: #333; font-size: 0.95em; }
+        .control-group select,
+        .control-group button {
+            padding: 12px;
+            border: 2px solid #667eea;
+            border-radius: 5px;
+            font-size: 0.95em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        .control-group select { background: white; color: #333; }
+        .control-group select:hover { border-color: #764ba2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .control-group button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            font-weight: 600;
+        }
+        .control-group button:hover:not(:disabled) { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(102,126,234,0.4); }
+        .control-group button:disabled { opacity: 0.6; cursor: not-allowed; }
+        .btn-reset { background: linear-gradient(135deg, #f57c00 0%, #e65100 100%) !important; }
+
+        /* Status bar */
+        #status-bar {
+            display: none;
+            text-align: center;
+            padding: 10px 16px;
+            margin-bottom: 16px;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 0.9em;
+        }
+        #status-bar.loading { display: block; background: #e3f2fd; color: #1976d2; }
+        #status-bar.done    { display: block; background: #e8f5e9; color: #2e7d32; }
+        #status-bar.error   { display: block; background: #ffebee; color: #c62828; }
+
+        /* Metrics */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .metric-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+        .metric-card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0,0,0,0.2); }
+        .metric-card .label { font-size: 0.85em; opacity: 0.9; margin-bottom: 10px; font-weight: 500; }
+        .metric-card .value { font-size: 1.8em; font-weight: bold; }
+        .metric-card .unit  { font-size: 0.75em; opacity: 0.8; }
+
+        /* Charts */
+        .charts-section { margin-top: 40px; }
+        .charts-section h2 {
+            color: #333; margin-bottom: 30px; font-size: 1.5em;
+            padding-bottom: 10px; border-bottom: 3px solid #667eea;
+        }
+        .charts-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 30px; }
+        .chart-container {
+            background: white; padding: 25px; border-radius: 10px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.08); border: 1px solid #e0e0e0;
+        }
+        .chart-container h3 { color: #333; margin-bottom: 20px; font-size: 1.2em; }
+        .chart-wrapper { position: relative; height: 350px; }
+        canvas { max-height: 350px; }
+
+        /* Per-chart loading overlay */
+        .chart-loading {
+            position: absolute; inset: 0;
+            display: flex; align-items: center; justify-content: center;
+            background: rgba(255,255,255,0.9);
+            border-radius: 8px; color: #667eea;
+            font-weight: 600; font-size: 0.9em; z-index: 10;
+        }
+        .chart-loading.hidden { display: none; }
+        .spinner {
+            width: 20px; height: 20px;
+            border: 3px solid #e0e0e0; border-top-color: #667eea;
+            border-radius: 50%; animation: spin 0.7s linear infinite;
+            margin-right: 8px; flex-shrink: 0;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h1>☀️ Solar Energy Analytics Dashboard</h1>
+        <p>Interactive Dashboard | Real-time Data Analysis</p>
+    </div>
+
+    <div class="content">
+        <div class="info-box">
+            <strong>💡 How to use:</strong> Select a filter from any dropdown and click <strong>Load Analytics</strong> to update the metric cards. Charts load automatically on page open.
+        </div>
+
+        <div id="status-bar"></div>
+
+        <!-- Filters -->
+        <div class="controls">
+            <div class="control-group">
+                <label for="state-select">📍 Filter by State:</label>
+                <select id="state-select"><option value="">-- Select State --</option></select>
+            </div>
+            <div class="control-group">
+                <label for="segment-select">👥 Filter by Segment:</label>
+                <select id="segment-select"><option value="">-- Select Segment --</option></select>
+            </div>
+            <div class="control-group">
+                <label for="utility-select">⚡ Filter by Utility:</label>
+                <select id="utility-select"><option value="">-- Select Utility --</option></select>
+            </div>
+            <div class="control-group">
+                <label for="manufacturer-select">🔧 Filter by Manufacturer:</label>
+                <select id="manufacturer-select"><option value="">-- Select Manufacturer --</option></select>
+            </div>
+            <div class="control-group">
+                <button id="btn-load" onclick="loadAnalytics()">📊 Load Analytics</button>
+            </div>
+            <div class="control-group">
+                <button class="btn-reset" onclick="resetFilters()">🔄 Reset Filters</button>
+            </div>
+        </div>
+
+        <!-- Metric Cards -->
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <div class="label">📦 Total Systems</div>
+                <div class="value" id="metric-systems">-</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">⚡ Avg System Size</div>
+                <div class="value" id="metric-size">-</div>
+                <div class="unit">kW</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">💰 Avg Price</div>
+                <div class="value" id="metric-price">-</div>
+                <div class="unit">USD</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">📈 Price / Watt</div>
+                <div class="value" id="metric-ppw">-</div>
+                <div class="unit">$/W</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">🔋 Total Capacity</div>
+                <div class="value" id="metric-capacity">-</div>
+                <div class="unit">MW</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">🗺️ States Active</div>
+                <div class="value" id="metric-states">-</div>
+            </div>
+        </div>
+
+        <!-- Charts -->
+        <div class="charts-section">
+            <h2>📊 Analytics Charts</h2>
+            <div class="charts-grid">
+
+                <div class="chart-container">
+                    <h3>📈 Installation Trend (by Year)</h3>
+                    <div class="chart-wrapper">
+                        <div id="loading-trendChart" class="chart-loading"><div class="spinner"></div>Loading…</div>
+                        <canvas id="trendChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <h3>🏆 Top 10 States by Installations</h3>
+                    <div class="chart-wrapper">
+                        <div id="loading-statesChart" class="chart-loading"><div class="spinner"></div>Loading…</div>
+                        <canvas id="statesChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <h3>👥 Customer Segment Distribution</h3>
+                    <div class="chart-wrapper">
+                        <div id="loading-segmentChart" class="chart-loading"><div class="spinner"></div>Loading…</div>
+                        <canvas id="segmentChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <h3>💵 Price Per Watt Trend</h3>
+                    <div class="chart-wrapper">
+                        <div id="loading-priceChart" class="chart-loading"><div class="spinner"></div>Loading…</div>
+                        <canvas id="priceChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <h3>🔬 Solar Technology Breakdown</h3>
+                    <div class="chart-wrapper">
+                        <div id="loading-technologyChart" class="chart-loading"><div class="spinner"></div>Loading…</div>
+                        <canvas id="technologyChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <h3>🏗️ Mount Type Distribution</h3>
+                    <div class="chart-wrapper">
+                        <div id="loading-mountChart" class="chart-loading"><div class="spinner"></div>Loading…</div>
+                        <canvas id="mountChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <h3>⚙️ Tracking System Distribution</h3>
+                    <div class="chart-wrapper">
+                        <div id="loading-trackingChart" class="chart-loading"><div class="spinner"></div>Loading…</div>
+                        <canvas id="trackingChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <h3>🏭 Top 10 Module Manufacturers</h3>
+                    <div class="chart-wrapper">
+                        <div id="loading-manufacturerChart" class="chart-loading"><div class="spinner"></div>Loading…</div>
+                        <canvas id="manufacturerChart"></canvas>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+// ─── State ───────────────────────────────────
+const charts = {};
+let chartsLoaded = false;
+let analyticsInFlight = false;
+
+// ─── Boot ────────────────────────────────────
+window.addEventListener('DOMContentLoaded', function () {
+    loadDropdowns();
+    loadSummary();
+    loadAllCharts();   // called ONCE — guarded by chartsLoaded flag
+});
+
+// ─── Status bar ──────────────────────────────
+function setStatus(msg, type) {
+    const bar = document.getElementById('status-bar');
+    bar.textContent = msg;
+    bar.className = type || '';
+}
+
+// ─── Per-chart spinner ────────────────────────
+function chartLoading(id, show) {
+    const el = document.getElementById('loading-' + id);
+    if (el) el.classList.toggle('hidden', !show);
+}
+
+// ─── Dropdowns ───────────────────────────────
+function loadDropdowns() {
+    [
+        ['/api/states',        'state-select'],
+        ['/api/segments',      'segment-select'],
+        ['/api/utilities',     'utility-select'],
+        ['/api/manufacturers', 'manufacturer-select'],
+    ].forEach(([url, id]) => {
+        fetch(url)
+            .then(r => r.json())
+            .then(data => {
+                const sel = document.getElementById(id);
+                data.forEach(item => {
+                    const opt = document.createElement('option');
+                    opt.value = opt.textContent = item;
+                    sel.appendChild(opt);
+                });
+            })
+            .catch(e => console.error(url, e));
+    });
+}
+
+// ─── Filter button ───────────────────────────
+function loadAnalytics() {
+    if (analyticsInFlight) return;
+    analyticsInFlight = true;
+
+    const btn = document.getElementById('btn-load');
+    btn.disabled = true;
+    btn.textContent = '⏳ Loading…';
+
+    const state        = document.getElementById('state-select').value;
+    const segment      = document.getElementById('segment-select').value;
+    const utility      = document.getElementById('utility-select').value;
+    const manufacturer = document.getElementById('manufacturer-select').value;
+
+    let url;
+    if      (state)        url = `/api/analytics/state?state=${encodeURIComponent(state)}`;
+    else if (segment)      url = `/api/analytics/segment?segment=${encodeURIComponent(segment)}`;
+    else if (utility)      url = `/api/analytics/utility?utility=${encodeURIComponent(utility)}`;
+    else if (manufacturer) url = `/api/analytics/manufacturer?manufacturer=${encodeURIComponent(manufacturer)}`;
+    else { loadSummary(); doneBtn(); return; }
+
+    setStatus('Fetching analytics…', 'loading');
+
+    fetch(url)
+        .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(data => {
+            if (!data || Object.keys(data).length === 0) {
+                setStatus('⚠️ No data found for this filter.', 'error');
+            } else {
+                updateMetrics(data);
+                setStatus('✅ Metrics updated successfully.', 'done');
+                setTimeout(() => setStatus('', ''), 3000);
+            }
+        })
+        .catch(e => { console.error(e); setStatus('❌ Error: ' + e.message, 'error'); })
+        .finally(doneBtn);
+}
+
+function doneBtn() {
+    analyticsInFlight = false;
+    const btn = document.getElementById('btn-load');
+    btn.disabled = false;
+    btn.textContent = '📊 Load Analytics';
+}
+
+function loadSummary() {
+    fetch('/api/summary')
+        .then(r => r.json())
+        .then(updateMetrics)
+        .catch(e => console.error('Summary:', e));
+}
+
+function updateMetrics(d) {
+    document.getElementById('metric-systems').textContent  = d.total_systems  != null ? Number(d.total_systems).toLocaleString()                : '-';
+    document.getElementById('metric-size').textContent     = d.avg_system_kw   != null ? Number(d.avg_system_kw).toFixed(2)                      : '-';
+    document.getElementById('metric-price').textContent    = d.avg_price_usd   != null ? '$' + Math.round(d.avg_price_usd).toLocaleString()       : '-';
+    document.getElementById('metric-ppw').textContent      = d.avg_ppw          != null ? '$' + Number(d.avg_ppw).toFixed(2)                      : '-';
+    document.getElementById('metric-capacity').textContent = d.total_capacity_kw!= null ? (d.total_capacity_kw / 1000).toFixed(2)                 : '-';
+    document.getElementById('metric-states').textContent   = d.num_states       != null ? d.num_states                                            : '-';
+}
+
+function resetFilters() {
+    ['state-select','segment-select','utility-select','manufacturer-select']
+        .forEach(id => document.getElementById(id).value = '');
+    setStatus('', '');
+    loadSummary();
+}
+
+// ─── Charts (loaded once, sequentially) ──────
+function destroyChart(id) {
+    if (charts[id]) { charts[id].destroy(); charts[id] = null; }
+}
+
+function fetchChart(id, url, buildFn) {
+    chartLoading(id, true);
+    return fetch(url)
+        .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(data => {
+            destroyChart(id);
+            charts[id] = buildFn(document.getElementById(id).getContext('2d'), data);
+        })
+        .catch(e => console.error(id + ':', e))
+        .finally(() => chartLoading(id, false));
+}
+
+function loadAllCharts() {
+    if (chartsLoaded) return;
+    chartsLoaded = true;
+
+    fetchChart('trendChart', '/api/chart/yearly-trend', (ctx, d) => new Chart(ctx, {
+        type: 'line',
+        data: { labels: d.map(r => r.year), datasets: [{ label: 'Installations',
+            data: d.map(r => r.installations), borderColor: '#667eea',
+            backgroundColor: 'rgba(102,126,234,0.1)', tension: 0.4, fill: true, borderWidth: 2, pointRadius: 4 }] },
+        options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } } }
+    }))
+    .then(() => fetchChart('statesChart', '/api/chart/top-states', (ctx, d) => new Chart(ctx, {
+        type: 'bar',
+        data: { labels: d.map(r => r.state), datasets: [{ label: 'Installations',
+            data: d.map(r => r.installations), backgroundColor: '#764ba2' }] },
+        options: { responsive: true, maintainAspectRatio: false, indexAxis: 'y',
+            plugins: { legend: { display: false } } }
+    })))
+    .then(() => fetchChart('segmentChart', '/api/chart/segment-distribution', (ctx, d) => new Chart(ctx, {
+        type: 'doughnut',
+        data: { labels: d.map(r => r.customer_segment), datasets: [{ data: d.map(r => r.count),
+            backgroundColor: ['#667eea','#764ba2','#f57c00','#1976d2'] }] },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } }
+    })))
+    .then(() => fetchChart('priceChart', '/api/chart/price-trend', (ctx, d) => new Chart(ctx, {
+        type: 'line',
+        data: { labels: d.map(r => r.year), datasets: [{ label: 'Avg $/W',
+            data: d.map(r => r.avg_ppw), borderColor: '#f57c00',
+            backgroundColor: 'rgba(245,124,0,0.1)', tension: 0.4, fill: true, borderWidth: 2 }] },
+        options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } } }
+    })))
+    .then(() => fetchChart('technologyChart', '/api/chart/technology-breakdown', (ctx, d) => new Chart(ctx, {
+        type: 'pie',
+        data: { labels: d.map(r => r.technology), datasets: [{ data: d.map(r => r.count),
+            backgroundColor: ['#667eea','#764ba2','#f57c00','#1976d2'] }] },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } }
+    })))
+    .then(() => fetchChart('mountChart', '/api/chart/mount-type', (ctx, d) => new Chart(ctx, {
+        type: 'bar',
+        data: { labels: d.map(r => r.mount_type), datasets: [{ label: 'Count',
+            data: d.map(r => r.count), backgroundColor: ['#667eea','#764ba2'] }] },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } }
+    })))
+    .then(() => fetchChart('trackingChart', '/api/chart/tracking-type', (ctx, d) => new Chart(ctx, {
+        type: 'doughnut',
+        data: { labels: d.map(r => r.tracking_type), datasets: [{ data: d.map(r => r.count),
+            backgroundColor: ['#667eea','#764ba2'] }] },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } }
+    })))
+    .then(() => fetchChart('manufacturerChart', '/api/chart/top-manufacturers', (ctx, d) => new Chart(ctx, {
+        type: 'bar',
+        data: { labels: d.map(r => r.manufacturer), datasets: [{ label: 'Installations',
+            data: d.map(r => r.count), backgroundColor: '#1976d2' }] },
+        options: { responsive: true, maintainAspectRatio: false, indexAxis: 'y',
+            plugins: { legend: { display: false } } }
+    })))
+    .then(() => console.log('✅ All 8 charts loaded.'))
+    .catch(e => console.error('Chart chain error:', e));
+}
+</script>
+</body>
+</html>
