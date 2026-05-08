@@ -1,0 +1,1001 @@
+installation_date,PV_system_size_DC,total_installed_price,rebate_or_grant,customer_segment,state,zip_code,utility_service_territory,third_party_owned,installer_name,tracking,ground_mounted,azimuth_1,tilt_1,module_manufacturer_1,module_model_1,module_quantity_1,technology_module_1,efficiency_module_1,inverter_manufacturer_1,inverter_model_1,output_capacity_inverter_1,inverter_loading_ratio,battery_rated_capacity_kWh,price_per_watt
+09-07-2014,7,17500,4294,RES,CA,92314,bear valley electric,0,Scc Solar Energy,,,,,SunEdison,MEMC-F265KzC-2y,14,Mono-c-Si,0.16125107,-1,-1,,,,2.5
+04-02-2015,6.6,31000,5418,RES,CA,92315,bear valley electric,0,Suntricity,,,,,American Solar Wholesale,ASW-275M,24,Mono-c-Si,0.14215854,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1458334,,4.696969697
+04-02-2015,4.4,21000,5655,RES,CA,92315,bear valley electric,0,Suntricity,,,,,American Solar Wholesale,ASW-275M,16,Mono-c-Si,0.14215854,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1458334,,4.772727273
+17-09-2014,4.104,31360,2797,RES,CA,92315,bear valley electric,0,Leonard Roofing,,,,,BIPV,BIPV054-S86,76,-1,,SMA America,sb3000tl-us-22,3.05,0.6727869,,7.641325536
+13-02-2014,4.5,20000,6216,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,Jiangyin Hareon Power,HR-250P-AC/Bb,18,Multi-c-Si,0.15404409,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,1.1627907,,4.444444444
+08-01-2015,6.48,26500,7304,RES,CA,92315,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,24,-1,,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,1.255814,,4.089506173
+22-08-2014,8.64,34500,11853,RES,CA,92315,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,32,-1,,-1,-1,,,,3.993055556
+02-02-2015,3.575,16594,4360,RES,CA,92315,bear valley electric,0,Petersendean,,,,,Centrosolar America,E275,13,Multi-c-Si,0.15814668,-1,-1,,,,4.641678322
+17-03-2015,6,14714,5819,RES,CA,92314,bear valley electric,0,Tesla,,,,,Grape Solar,GS-S-250-Fab5,24,Mono-c-Si,0.12883942,Enphase Energy Inc.,m215-60-2ll-s2x [208v],0.215,1.1627907,,2.452333333
+17-03-2015,8.16,34400,8270,RES,CA,92315,bear valley electric,0,Sungevity,,,,,REC Solar,REC255PE2 BLK,32,Multi-c-Si,0.160794,Enphase Energy Inc.,m215-60-2ll-s2x [208v],0.215,1.1860465,,4.215686275
+23-02-2015,2.5,12875,3025,RES,CA,92314,bear valley electric,0,Solarmax,,,,,SMX Capital,SMX250P,10,Multi-c-Si,0.15397881,SMA America,sb3000tl-us-22 [240v],3.05,0.8196721,,5.15
+19-02-2015,5.25,27563,5769,RES,CA,92333,bear valley electric,0,R E Pierro Construction,,,,,Stion,STN-150,35,Thin Film,0.13807882,SolarEdge Technologies Ltd.,se5000 [240v],4.99,1.0521042,,5.250095238
+05-03-2015,9.94,64400,9883,RES,CA,92314,bear valley electric,0,R E Pierro Construction,,,,,Stion,STL-140,71,Thin Film,0.12887357,SolarEdge Technologies Ltd.,se7600a-us [240v],7.625,1.3036065,,6.478873239
+31-10-2014,4.8,20000,6537,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,18,-1,,-1,-1,,,,4.166666667
+25-08-2014,8.1,31000,11113,RES,CA,92333,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,30,-1,,-1,-1,,,,3.827160494
+12-03-2015,4.68,21060,6246,RES,CA,92314,bear valley electric,0,Sungevity,,,,,REC Solar,REC260TP BLK,18,Multi-c-Si,0.15757433,SMA America,sb4000tl-us-22 [240v],4.05,1.1555556,,4.5
+12-03-2015,6.3,36599,7341,RES,CA,92315,bear valley electric,0,Pierro Construction,,,,,Stion,STL-140,15,Thin Film,0.12887357,SolarEdge Technologies Ltd.,se5000 [240v],4.99,1.2625251,,5.809365079
+28-03-2015,3.5,16000,4860,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,Jiangyin Hareon Power,HR-250P-AC/Bb,14,Multi-c-Si,0.15404409,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,1.1627907,,4.571428571
+05-03-2015,1.8,17750,1957,RES,CA,92315,bear valley electric,0,R E Pierro Construction,,,,,Stion,STN-150,12,Thin Film,0.13807882,SMA America,sb3000tl-us-22 [240v],3.05,0.59016395,,9.861111111
+05-03-2015,5.4,22500,7271,RES,CA,92315,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,20,-1,,-1,-1,,,,4.166666667
+24-04-2015,3.36,10000,4551,RES,CA,92314,bear valley electric,0,Barneybilt Construction,,,,,-1,-1,12,-1,,SMA America,sb4000tl-us-22 [240v],4.05,0.8296296,,2.976190476
+01-05-2015,3.36,15442,,RES,CA,92315,bear valley electric,0,Desert Solar,,,,,-1,-1,12,-1,,-1,-1,,,,4.595833333
+09-07-2014,2.5,10500,3452,RES,CA,92315,bear valley electric,0,Steve Cooper Construction,,,,,Jiangyin Hareon Power,HR-250P-AC/Bb,10,Multi-c-Si,0.15404409,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,1.1627907,,4.2
+13-04-2015,7.848,30211,9955,RES,CA,92315,bear valley electric,0,Suntime Energy,,,,,SunPower,SPR-E20-327,24,Mono-c-Si,0.2006135,SMA America,sb3800us [240v],4.05,0.9688889,,3.8495158
+04-06-2015,4.4,18500,6050,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,16,-1,,-1,-1,,,,4.204545455
+13-05-2015,3.9,15900,5267,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,14,-1,,-1,-1,,,,4.076923077
+06-10-2014,3.2,15000,4337,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,12,-1,,-1,-1,,,,4.6875
+13-05-2015,5.13,20095,6290,RES,CA,92315,bear valley electric,0,Inland Empower Homes,,,,,American Solar Wholesale,ASW-285M,18,Mono-c-Si,0.14732793,SolarEdge Technologies Ltd.,se3800a-us,3.79,1.353562,,3.917153996
+14-05-2014,5.31,16761,7251,RES,CA,92314,bear valley electric,0,Desert Solar,,,,,ET Solar Industry,ET-P672295WB,18,Multi-c-Si,0.15203427,SMA America,sb6000us,6,0.885,,3.156497175
+14-05-2014,2.36,7616,3996,RES,CA,92314,bear valley electric,0,Desert Solar,,,,,ET Solar Industry,ET-P672295WB,8,Multi-c-Si,0.15203427,SMA America,sb3800us,4.05,0.58271605,,3.227118644
+19-05-2015,5.72,22880,7571,RES,CA,92314,bear valley electric,0,Sungevity,,,,,REC Solar,REC260TP BLK,22,Multi-c-Si,0.15757433,SolarEdge Technologies Ltd.,se5000h-us [240v],5.052,1.1322249,,4
+14-05-2015,5.6,22000,7045,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,20,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1666666,,3.928571429
+19-05-2015,3.64,14560,4945,RES,CA,92315,bear valley electric,0,Sungevity,,,,,REC Solar,REC260TP BLK,14,Multi-c-Si,0.15757433,SolarEdge Technologies Ltd.,se3800a-us [240v],3.79,0.96042216,,4
+26-05-2015,3.3,31550,,RES,CA,92314,bear valley electric,0,True Power Solar,,,,,American Solar Wholesale,ASW-275M,12,Mono-c-Si,0.14215854,-1,-1,,,,9.560606061
+15-05-2015,7.28,31100,9506,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,26,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na),0.24,1.1666666,,4.271978022
+11-05-2015,2.8,10595.74,3627,RES,CA,92386,bear valley electric,0,Pacific Pro Solar,,,,,-1,-1,8,-1,,-1,-1,,,,3.784192857
+21-05-2015,10.64,41800,13260,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,38,-1,,-1,-1,,,,3.928571429
+21-05-2015,5.46,25560,1493,RES,CA,92315,bear valley electric,0,Sungevity,,,,,REC Solar,REC260TP BLK,21,Multi-c-Si,0.15757433,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,1.2093023,,4.681318681
+26-05-2015,3.6,14500,3768,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,12,-1,,-1,-1,,,,4.027777778
+26-05-2015,3.3,13500,3613,RES,CA,92386,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,12,-1,,-1,-1,,,,4.090909091
+09-06-2015,6.4,23168,6482,RES,CA,92314,bear valley electric,0,Desert Solar,,,,,Renesola America,JC305M-24/Axh,21,Multi-c-Si,0.15718797,-1,-1,,,,3.62
+10-06-2015,6.7,26500,7343,RES,CA,92386,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,24,-1,,-1,-1,,,,3.955223881
+22-06-2015,6.72,28150,5721,RES,CA,92315,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,24,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1666666,,4.188988095
+09-06-2015,6.2,26600,6167,RES,CA,92315,bear valley electric,0,Sea Bright Solar,,,,,Canadian Solar Inc.,-1,24,-1,,-1,-1,,,,4.290322581
+23-06-2015,4.4,17900,5019,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,16,-1,,-1,-1,,,,4.068181818
+23-06-2015,4.48,17600,4928,RES,CA,92315,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,16,-1,,-1,-1,,,,3.928571429
+01-09-2015,4.3,22900,4694,RES,CA,92314,bear valley electric,0,Scc Solar Energy,,,,,SunEdison,MEMC-F270KzC-2y,16,Mono-c-Si,0.16429354,Enphase Energy Inc.,m250-72-2ll-s2x [240v],0.24,1.1197916,,5.325581395
+02-07-2015,3.12,14995,4190,RES,CA,92315,bear valley electric,0,Renewable Energy Advantage,,,,,Canadian Solar Inc.,CS6P-255MM,12,Mono-c-Si,0.1646452,Enphase Energy Inc.,m215-60-2ll-s2x [208v],0.215,1.2093023,,4.806089744
+22-06-2015,4.5,25536,5063,RES,CA,92315,bear valley electric,0,Suntricity,,,,,American Solar Wholesale,ASW-280M,16,Mono-c-Si,0.14474323,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.171875,,5.674666667
+22-06-2015,3.4,19804,3688,RES,CA,92315,bear valley electric,0,Suntricity,,,,,American Solar Wholesale,ASW-280M,12,Mono-c-Si,0.14474323,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1805556,,5.824705882
+26-06-2015,3.3,12500,3423,RES,CA,92315,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,12,-1,,-1,-1,,,,3.787878788
+22-06-2015,2.8,15900,3171,RES,CA,92315,bear valley electric,0,Suntricity,,,,,American Solar Wholesale,ASW-280M,10,Mono-c-Si,0.14474323,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1666666,,5.678571429
+06-07-2015,3.3,13500,3504,RES,CA,92333,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,12,-1,,-1,-1,,,,4.090909091
+16-07-2015,5.94,29100,5458,RES,CA,92314,bear valley electric,0,Socal Custom,,,,,SunEdison,MEMC-F270KzC-2y,22,Mono-c-Si,0.16429354,Enphase Energy Inc.,m250-72-2ll-s2x [240v],0.24,1.125,,4.898989899
+21-08-2015,3.9,19508,4330,RES,CA,92315,bear valley electric,0,Tesla,,,,,Kyocera Solar,KU260-6XPA,15,Multi-c-Si,0.16390827,SolarEdge Technologies Ltd.,se3800a-us [240v],3.79,1.0290238,,5.002051282
+21-08-2015,7.52,33500,7475,RES,CA,92315,bear valley electric,0,Barneybilt Construction,,,,,-1,-1,30,-1,,-1,-1,,,,4.454787234
+21-08-2015,10.92,46800,11631,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,39,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1666666,,4.285714286
+12-08-2015,7.15,40307,7510,RES,CA,92314,bear valley electric,0,Burke Electric,,,,,American Solar Wholesale,ASW-275M,26,Mono-c-Si,0.14215854,Enphase Energy Inc.,m215-60-2ll-s2x [208v],0.215,1.2790698,,5.637342657
+31-07-2015,3.5,12400,3846,RES,CA,92315,bear valley electric,0,Ds Energy Solutions,,,,,ET Solar Industry,ET-A-P672295,12,Multi-c-Si,0.15156466,-1,-1,,,,3.542857143
+04-08-2015,5.2,26000,3371,RES,CA,92314,bear valley electric,0,Sea Bright Solar,,,,,SunPower,-1,16,-1,,SolarEdge Technologies Ltd.,se3000,3.01,0.86378735,,5
+01-09-2015,3.08,11396,2939,RES,CA,92314,bear valley electric,0,Photon Brothers,,,,,American Solar Wholesale,ASW-280M,11,Mono-c-Si,0.14474323,SMA America,sb3000tl-us-22 [240v],3.05,1.0098361,,3.7
+25-08-2015,5.7,31548,3696,RES,CA,92315,bear valley electric,0,Ds Energy Solutions,,,,,"CSI Solar Co., Ltd.",CS6P-260P,22,Multi-c-Si,0.16787353,-1,-1,,,,5.534736842
+28-08-2015,6.84,29754,5104,RES,CA,92314,bear valley electric,0,Smart Solar Power,,,,,American Solar Wholesale,ASW-285M,14,Mono-c-Si,0.14732793,-1,-1,,,,4.35
+16-10-2015,5.886,31000,4333,RES,CA,92314,bear valley electric,1,Sunpro Solar,,,,,SunPower,SPR-327NE-WHT-D,18,Mono-c-Si,0.20052566,SMA America,sb5000tl-us-22 [240v],5.05,1.1655445,,5.266734625
+01-10-2015,4.4,18500,4207,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,16,-1,,-1,-1,,,,4.204545455
+22-10-2015,3.135,14327,2191,RES,CA,92315,bear valley electric,0,Smart Solar Power,,,,,American Solar Wholesale,ASW-285M,11,Mono-c-Si,0.14732793,-1,-1,,,,4.570015949
+07-10-2015,7.78,38444,5915,RES,CA,92314,bear valley electric,0,Pell Solar,,,,,-1,-1,30,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.0805556,,4.941388175
+28-09-2015,15.13,57589.25,11386,RES,CA,92315,bear valley electric,0,Petersendean,,,,,-1,-1,55,-1,,-1,-1,,,,3.80629544
+28-09-2015,3.78,11000,3168,RES,CA,92314,bear valley electric,0,Terawatt Construction,,,,,American Solar Wholesale,ASW-315P,12,Multi-c-Si,0.16283613,SMA America,sb3800tl-us-22,3.85,0.9818182,,2.91005291
+09-10-2015,6.21,27565,5054,RES,CA,92314,bear valley electric,0,Sea Bright Solar,,,,,SunPower,-1,18,-1,,SolarEdge Technologies Ltd.,se3000,3.01,1.0315615,,4.438808374
+23-10-2015,7.7,29500,6403,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,28,-1,,-1,-1,,,,3.831168831
+23-11-2015,9.45,3813.1,7069,RES,CA,92315,bear valley electric,0,Helio Power,,,,,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-M270RG,35,Multi-c-Si,0.16496408,SolarEdge Technologies Ltd.,se7600a-us [240v],7.625,1.2393442,,0.403502646
+23-11-2015,7.8531756,41182,6074,RES,CA,92314,bear valley electric,0,Verengo,,,,,-1,-1,30,-1,,-1,-1,,,,5.243993271
+23-11-2015,4.08,17150,2649,RES,CA,92314,bear valley electric,0,Southland Solar,,,,,"CSI Solar Co., Ltd.",CS6P-255P,16,Multi-c-Si,0.1646452,-1,-1,,,,4.203431373
+20-11-2015,5.6,25000,4905,RES,CA,92315,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,20,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1666666,,4.464285714
+28-01-2016,3.06,12600,2522,RES,CA,92314,bear valley electric,0,Green Volt Energy,,,,,"CSI Solar Co., Ltd.",CS6P-255P,12,Multi-c-Si,0.1646452,-1,-1,,,,4.117647059
+20-11-2015,7,29125,4548,RES,CA,92315,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,25,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1666666,,4.160714286
+28-01-2016,3.08,12240,2497,RES,CA,92314,bear valley electric,0,Green Volt Energy,,,,,-1,-1,11,-1,,-1,-1,,,,3.974025974
+24-11-2015,2.8,14702,2366,RES,CA,92314,bear valley electric,0,Ds Energy Solutions,,,,,"CSI Solar Co., Ltd.",CS6P-260P,11,Multi-c-Si,0.16787353,SolarEdge Technologies Ltd.,se3800a-us,3.79,0.7387863,,5.250714286
+23-11-2015,2.04,8355.41,3216,RES,CA,92314,bear valley electric,0,Self,,,,,"CSI Solar Co., Ltd.",CS6P-255P,16,Multi-c-Si,0.1646452,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,0.59302324,,4.095789216
+28-01-2016,5.1,25500,3143,RES,CA,92315,bear valley electric,0,Tesla,,,,,Kyocera Solar,KU255-6BCA,20,Multi-c-Si,0.16092227,ABB,pvi-4.2-outd-s-us-z-a,4.2,1.2142857,,5
+02-12-2015,3.12,15912,2405,RES,CA,92314,bear valley electric,0,Tesla,,,,,Kyocera Solar,KU260-6XPA,12,Multi-c-Si,0.16390827,ABB,pvi-3.0-outd-s-us-z-a,3,1.04,,5.1
+28-01-2016,4.86,29650,3948,RES,CA,92314,bear valley electric,0,Sunsolar Us,,,,,Mitsubishi Electric,PV-MLE270HD,18,Mono-c-Si,0.18491124,SolarEdge Technologies Ltd.,se3800 [240v],3.79,1.2823219,,6.100823045
+29-12-2015,6.4,25300,4600,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,23,-1,,SolarEdge Technologies Ltd.,se7600h-us [240v],7.616,0.84033614,,3.953125
+28-12-2015,7.68,25200,5702,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,24,-1,,SolarEdge Technologies Ltd.,se7600h-us [240v],7.616,1.0084034,,3.28125
+28-01-2016,5.72,22481.78,4631,RES,CA,92314,bear valley electric,0,Ris Electrical Contractors,,,,,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-S260RG(BK),22,Mono-c-Si,0.15885429,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.0833334,,3.930381119
+30-12-2015,5.49,22500,4547,RES,CA,92314,bear valley electric,0,Green Volt Energy,,,,,LG Electronics Inc.,-1,18,-1,,-1,-1,,,,4.098360656
+29-12-2015,4.68,22109,2901,RES,CA,92314,bear valley electric,0,Tesla,,,,,Kyocera Solar,KU260-6XPA,18,Multi-c-Si,0.16390827,ABB,pvi-3.6-outd-s-us-z-a [240v],3.6,1.3,,4.724145299
+09-02-2016,3.805,18915,3055,RES,CA,92314,bear valley electric,0,Smart Solar Power,,,,,American Solar Wholesale,ASW-285M,13,Mono-c-Si,0.14732793,-1,-1,,,,4.97109067
+11-09-2015,3.27,17004,2579,RES,CA,92314,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,10,Mono-c-Si,0.20052566,Power-One,pvi-3.8-outd-s-us-a [240v],3.8,0.8605263,,5.2
+01-10-2015,3.924,22366,3107,RES,CA,92314,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,12,Mono-c-Si,0.20052566,SMA America,sb5000tl-us-22,4.58,0.85676855,,5.699796126
+09-02-2016,5.04,17910,4073,RES,CA,92315,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,18,-1,,SolarEdge Technologies Ltd.,se6000,5.33,0.945591,,3.553571429
+29-09-2015,3.924,20404,3097,RES,CA,92314,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,12,Mono-c-Si,0.20052566,SMA America,sb3000tl-us-22 [240v],3.05,1.2865574,,5.199796126
+10-02-2016,5.3,25427,4096,RES,CA,92314,bear valley electric,0,Smart Solar Power,,,,,American Solar Wholesale,ASW-285M,18,Mono-c-Si,0.14732793,-1,-1,,,,4.79754717
+11-09-2015,3.27,17004,,RES,CA,92314,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,10,Mono-c-Si,0.20052566,Power-One,pvi-3.8-outd-s-us-a [240v],3.8,0.8605263,,5.2
+11-02-2016,14.3,53800,10371,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-S325TI,44,Mono-c-Si,0.16614862,SolarEdge Technologies Ltd.,se11400a-us [240v],11.39,0.62774366,,3.762237762
+11-02-2016,3.6,18250,2676,RES,CA,92314,bear valley electric,0,Sea Bright Solar,,,,,SunPower,SPR-E20-327,11,Mono-c-Si,0.2006135,SMA America,sb3800tl-us-22 [240v],3.85,0.9350649,,5.069444444
+11-02-2016,2.8,12750,2205,RES,CA,92315,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,10,-1,,-1,-1,,,,4.553571429
+29-09-2015,1.507,29406,4471,RES,CA,92314,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,17,Mono-c-Si,0.20052566,SMA America,sb3000tl-us-22 [240v],3.05,,,19.51293962
+30-09-2015,2.4112,14388,2071,RES,CA,92314,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,8,Mono-c-Si,0.20052566,Power-One,pvi-3.0-outd-s-us-a [240v],3,0.80373335,,5.967153285
+16-02-2016,5.7,26049,4701,RES,CA,92314,bear valley electric,0,Smart Solar Power,,,,,American Solar Wholesale,ASW-285M,20,Mono-c-Si,0.14732793,-1,-1,,,,4.57
+23-11-2015,4.2196,27436,3797,RES,CA,92315,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,14,Mono-c-Si,0.20052566,Power-One,pvi-4.2-outd-s-us-a [240v],4.2,1.0046667,,6.502038108
+29-09-2015,3.014,17985,2610,RES,CA,92314,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,10,Mono-c-Si,0.20052566,Power-One,pvi-3.0-outd-s-us-a [240v],3,1.0046667,,5.967153285
+16-02-2016,2.8,12000,2907,RES,CA,92315,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,10,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1666666,,4.285714286
+14-09-2015,3.9182,20904,2948,RES,CA,92314,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,13,Mono-c-Si,0.20052566,Power-One,pvi-3.8-outd-s-us-a [240v],3.8,1.0311053,,5.335102853
+16-11-2015,2.4112,14926,2170,RES,CA,92314,bear valley electric,1,Green Homes Of Ca,,,,,SunPower,SPR-327NE-WHT-D,8,Mono-c-Si,0.20052566,Power-One,pvi-3.0-outd-s-us-a [240v],3,0.80373335,,6.190278699
+19-02-2016,3.36,11940,2572,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,12,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,1.1666666,,3.553571429
+17-02-2016,3.08,11500,2512,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,-1,-1,11,-1,,SolarEdge Technologies Ltd.,se3800 [240v],3.79,0.8126649,,3.733766234
+22-02-2016,3.64,16087,2213,RES,CA,92315,bear valley electric,0,Pure Solar,,,,,-1,-1,13,-1,,SolarEdge Technologies Ltd.,se3000,3.01,1.2093023,,4.419505495
+02-03-2016,3.36,12600,2665,RES,CA,92314,bear valley electric,0,Po Box,,,,,-1,-1,12,-1,,SolarEdge Technologies Ltd.,se3800 [240v],3.79,0.8865435,,3.75
+04-03-2016,5.04,19350,4071,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,Silevo,U280 Black,18,Mono-c-Si,,SolarEdge Technologies Ltd.,se6000,5.33,0.945591,,3.839285714
+29-02-2016,3.27,15542,2688,RES,CA,92314,bear valley electric,1,Precis Solar,,,,,SunPower,SPR-327NE-WHT-D,10,Mono-c-Si,0.20052566,ABB,pvi-3.0-outd-s-us,3,1.09,,4.752905199
+08-03-2016,3.36,16500,2066,RES,CA,92314,bear valley electric,0,Barneybilt Construction,,,,,-1,-1,12,-1,,SMA America,sb4000tl-us-22 [240v],4.05,0.8296296,,4.910714286
+09-03-2016,12,41280,7972,RES,CA,92315,bear valley electric,0,Bear Mountain Solar Energy,,,,,LG Electronics Inc.,LG300N1K-G4,40,Mono-c-Si,0.18896447,SolarEdge Technologies Ltd.,se7600h-us [240v],7.616,0.78781515,,3.44
+10-03-2016,3.9,11400,2788,RES,CA,92315,bear valley electric,0,Bear Mountain Solar Energy,,,,,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-S325TI,12,Mono-c-Si,0.16614862,SolarEdge Technologies Ltd.,se5000 [240v],4.99,0.7815631,,2.923076923
+25-01-2015,2.7,5750,1628,RES,CA,92314,bear valley electric,0,Self,,,,,Centrosolar America,E270,10,Multi-c-Si,0.15527129,Enphase Energy Inc.,c250-72-2ln-s2,0.247,1.0931174,,2.12962963
+14-03-2016,7.13,23000,5911,RES,CA,92315,bear valley electric,0,Treepublic Energy,,,,,LG Electronics Inc.,LG310N1C-Z4,23,Mono-c-Si,0.1952633,Enphase Energy Inc.,s280-60-ll-x [208v],0.27,1.1481482,,3.225806452
+15-03-2016,7.8,28750,5525,RES,CA,92314,bear valley electric,0,Steve Cooper Construction,,,,,-1,-1,28,-1,,-1,-1,,,,3.685897436
+15-03-2016,5.1,17925,3687,RES,CA,92315,bear valley electric,0,Bear Mountain Solar Energy,,,,,LG Electronics Inc.,LG300N1K-G4,17,Mono-c-Si,0.18896447,Enphase Energy Inc.,s280-60-ll-x [240v],0.27,1.1111112,,3.514705882
+24-03-2016,1.5,6000,611,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,LG Electronics Inc.,LG300N1K-G4,5,Mono-c-Si,0.18896447,Enphase Energy Inc.,s280-60-ll-x [240v],0.27,1.1111112,,4
+25-03-2016,20.1,69144,12741,RES,CA,92314,bear valley electric,0,Bear Mountain Solar Energy,,,,,LG Electronics Inc.,LG300N1K-G4,67,Mono-c-Si,0.18896447,Enphase Energy Inc.,s280-60-ll-x [240v],0.27,1.1111112,,3.44
+25-03-2016,10.26,47395,5278,RES,CA,92314,bear valley electric,0,Smart Solar Power,,,,,American Solar Wholesale,ASW-285M,36,Mono-c-Si,0.14732793,-1,-1,,,,4.619395712
+25-03-2016,11,50730,8074,RES,CA,92314,bear valley electric,0,Barneybilt Construction,,,,,-1,-1,44,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na),0.24,1.0416666,,4.611818182
+29-03-2016,3.99,18234,3290,RES,CA,92314,bear valley electric,0,Smart Solar Power,,,,,American Solar Wholesale,ASW-285M,14,Mono-c-Si,0.14732793,-1,-1,,,,4.569924812
+29-03-2016,2.943,11447,2307,RES,CA,92314,bear valley electric,1,Precis Solar,,,,,SunPower,SPR-E20-327,9,Mono-c-Si,0.2006135,Power-One,pvi-3.0-outd-s-us-a [240v],3,0.981,,3.889568468
+22-03-2016,2.943,15800,705,RES,CA,92314,bear valley electric,1,Smart Energy Usa,,,,,SunPower,SPR-327NE-WHT-D,9,Mono-c-Si,0.20052566,UNKNOWN,pvi-3.0-outd-s-us,3,0.981,,5.368671424
+21-06-2011,1.35,16818.94,2288,RES,CA,96097,pacific power,,no match,,,195,18,Trina Solar,TSM-225PA05,6,Multi-c-Si,0.13903007,Enphase Energy Inc.,m190-72-240-sxx (-na),0.19,,,12.45847407
+28-07-2011,13.8,85786.53,23476,RES,CA,96067,pacific power,,no match,,,195,25,REC Solar,REC230PE (BLK),60,Multi-c-Si,0.13939267,SMA America,sb6000us [240v],6,,,6.216415217
+18-08-2011,7.6,42209.73,12522,RES,CA,96097,pacific power,,no match,,,170,25,Mage Solar,Powertec Plus 190/5MI,40,Mono-c-Si,0.14882818,Fronius USA,ig plus a 7.5 [240v],7.5,,,5.553911842
+25-08-2011,3.04,18555.71,4932,RES,CA,96097,pacific power,,no match,,,140,15,Mage Solar,Powertec Plus 190/5MI,16,Mono-c-Si,0.14882818,Fronius USA,ig 3000 neg,2.7,,,6.103851974
+26-08-2011,4.62,15669,8190,RES,CA,96067,pacific power,,no match,,,180,22.5,-1,-1,22,-1,,Enphase Energy Inc.,m210-84-240-sxx-na,0.21,,,3.391558442
+08-09-2011,5.7,30707.57,9294,RES,CA,96050,pacific power,,no match,,,193,12,Mage Solar,Powertec Plus 190/5MI,30,Mono-c-Si,0.14882818,Fronius USA,ig 5100 neg,5.1,,,5.387292982
+08-09-2011,5.805,34216,9776,RES,CA,95531,pacific power,,no match,,,270,30,-1,-1,27,-1,,PV Powered,pvp2500 [240v],2.5,,,5.894229113
+14-09-2011,4.05,27985,7084,RES,CA,96067,pacific power,,no match,,,186,30,SunPower,SPR-225E-BLK-D,18,Mono-c-Si,0.18085624,SunPower,spr-4000m [240v],4,,,6.909876543
+14-09-2011,9.165,55644,11906,RES,CA,96025,pacific power,,no match,,,199,18,SunPower,SER-235P,39,Multi-c-Si,0.14462437,SunPower,spr-8000m [240v],7.6,,,6.071358429
+14-09-2011,7.6,41354,9788,RES,CA,96097,pacific power,,no match,,,155,25,Mage Solar,Powertec Plus 190/5MH,40,Mono-c-Si,0.14882818,Fronius USA,ig plus a 7.5 [240v],7.5,,,5.441315789
+15-09-2011,6.08,34698.05,7871,RES,CA,96097,pacific power,,no match,,,150,18,Mage Solar,Powertec Plus 190/5MH,32,Mono-c-Si,0.14882818,Fronius USA,ig plus a 6.0 [240v],6,,,5.706916118
+23-09-2011,2.4,16507,3150,RES,CA,96067,pacific power,,no match,,,223,26,SunPower,SPR-240E-WHT-D,10,Mono-c-Si,0.19291332,SunPower,spr-4000m [240v],4,,,6.877916667
+29-09-2011,3.84,27912,5015,RES,CA,96067,pacific power,,no match,,,195,18,SunPower,SPR-240E-WHT-D,16,Mono-c-Si,0.19291332,SunPower,spr-5000m [240v],5,,,7.26875
+29-09-2011,13.76,59229.3,9611,RES,CA,96101,pacific power,,no match,,,180,35,REC Solar,REC215AE-US (BLK),64,Multi-c-Si,0.13030185,SMA America,sb7000us [208v],7,,,4.304454942
+06-10-2011,10.752,67883,15380,RES,CA,95531,pacific power,,no match,,,162,29,Sharp,ND-224QCJ,48,Multi-c-Si,0.14243057,SMA America,sb5000us [240v],5,,,6.313523065
+10-10-2011,5.64,27734.75,9532,RES,CA,96094,pacific power,,no match,,,180,35,"Chint Solar (Zhejiang) Co., Ltd.",CHSM6610M-235,24,Mono-c-Si,0.14311048,Enphase Energy Inc.,m190-72-240-sxx (-na),0.19,,,4.917508865
+28-10-2011,5.13,32185,8716,RES,CA,96064,pacific power,,no match,,,180,30,Mage Solar,Powertec Plus 190/5MH,27,Mono-c-Si,0.14882818,Fronius USA,ig 5100 neg,5.1,,,6.273879142
+08-11-2011,6.345,38657.24,10974,RES,CA,96067,pacific power,,no match,,,180,31,"Chint Solar (Zhejiang) Co., Ltd.",CHSM6610P-235,27,Multi-c-Si,0.14311048,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,6.092551615
+15-11-2011,5.865,38123,7634,RES,CA,96101,pacific power,,no match,,,180,20.5,-1,-1,23,-1,,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,6.500085251
+17-11-2011,5.17,31200,6681,RES,CA,96067,pacific power,,no match,,,180,22,SunPower,T5-SER-235P,22,Multi-c-Si,0.14462437,SunPower,spr-5000m [240v],5,,,6.034816248
+09-01-2012,6.21,38880,8099,RES,CA,96094,pacific power,,no match,,,180,21,SunPower,SPR-230E-WHT-D,27,Mono-c-Si,0.18487528,SunPower,spr-6000m [240v],6,,,6.260869565
+10-01-2012,4.14,19115.89,5358,RES,CA,96094,pacific power,,no match,,,189,19,Trina Solar,TSM-230PA05.10,18,Multi-c-Si,0.14211962,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.617364734
+13-01-2012,11.04,55860,18950,RES,CA,96027,pacific power,,no match,,,180,40,Trina Solar,TSM-230PA05.18,48,Multi-c-Si,0.14211962,SMA America,sb6000us [240v],6,,,5.059782609
+24-01-2012,12.65,63555.75,16362,RES,CA,96094,pacific power,,no match,,,188,40,Yingli Energy (China),YL230P-29b,55,Multi-c-Si,0.14080197,Enphase Energy Inc.,m215-60-2ll-s2x [240v],0.215,,,5.02416996
+29-06-2012,8.047553,16853.56,14148,RES,CA,96067,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.094246537
+21-06-2011,1.301442,16818.94,2288,RES,CA,96097,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,12.92331122
+28-07-2011,13.360258,85786.53,23476,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.421023456
+16-02-2012,3.06,27530,4930,RES,CA,96067,pacific power,0,Mount Shasta Energy Services,,,,,-1,-1,,-1,,-1,-1,,,,8.996732026
+10-10-2011,5.4219165,27734.75,9532,RES,CA,96094,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.115303786
+13-01-2012,10.778989,55860,18950,RES,CA,96027,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,5.182304203
+29-06-2012,3.585,23810,6776,RES,CA,96067,pacific power,0,Mount Shasta Energy Services,,,,,-1,-1,,-1,,-1,-1,,,,6.641562064
+18-01-2013,5.251273,15732,8780,RES,CA,96097,pacific power,0,Halcyon Solar,,,,,-1,-1,,-1,,-1,-1,,,,2.995845007
+04-06-2012,15.082621,145317.77,26516,RES,CA,96094,pacific power,0,Volf Construction,,,,,-1,-1,,-1,,-1,-1,,,,9.63478231
+28-06-2012,6.022582,9472.91,9151,RES,CA,96067,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,1.572898468
+04-10-2012,14.692416,53221.45,25519,RES,CA,96034,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,3.622375653
+28-10-2011,6.292199,38657.24,10974,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.143677274
+14-09-2011,4.0294647,27985,7084,RES,CA,96067,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.945091243
+19-09-2012,2.7075455,12000,4760,RES,CA,96057,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,4.432058482
+26-08-2011,4.658571,15669,8190,RES,CA,96067,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,3.36347777
+10-08-2011,7.122665,42209.73,12522,RES,CA,96097,pacific power,0,Electron Connection,,,,,-1,-1,,-1,,-1,-1,,,,5.926114734
+04-05-2012,5.4,36000,7432,RES,CA,96094,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.666666667
+01-09-2011,5.2865396,30707.57,9294,RES,CA,96050,pacific power,0,Electron Connection,,,,,-1,-1,,-1,,-1,-1,,,,5.808633307
+22-08-2011,2.805381,18555.71,4932,RES,CA,96097,pacific power,0,Electron Connection,,,,,-1,-1,,-1,,-1,-1,,,,6.614327965
+24-10-2011,4.957766,32185,8716,RES,CA,96064,pacific power,0,Electron Connection,,,,,-1,-1,,-1,,-1,-1,,,,6.491835234
+03-07-2012,8.536,20715.16,13167,RES,CA,96094,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.426799438
+01-09-2011,5.5607066,34216,9776,RES,CA,95531,pacific power,0,Blue Skies Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.15317485
+03-10-2011,10.524161,67883,15380,RES,CA,95531,pacific power,0,Blue Skies Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.450205389
+23-09-2011,2.3890107,16507,3150,RES,CA,96067,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.909554654
+14-09-2011,9.029323,55644,11906,RES,CA,96025,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.162588269
+15-09-2011,5.969114,34698.05,7871,RES,CA,96097,pacific power,0,Electron Connection,,,,,-1,-1,,-1,,-1,-1,,,,5.812931366
+14-09-2011,7.4229975,41354,9788,RES,CA,96097,pacific power,0,Electron Connection,,,,,-1,-1,,-1,,-1,-1,,,,5.571064789
+17-11-2011,5.066978,31200,6681,RES,CA,96067,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.157516374
+22-05-2012,6.761,23500,9234,RES,CA,96067,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,3.475817187
+07-12-2012,10.414949,32972.5,13732,RES,CA,96067,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,3.165882041
+04-06-2012,8.70965,25000,11423,RES,CA,96067,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.870379407
+29-09-2011,3.8030775,27912,5015,RES,CA,96067,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,7.339319275
+24-01-2012,12.4092045,63555.75,16362,RES,CA,96094,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.121661908
+15-11-2011,5.789369,38123,7634,RES,CA,96101,pacific power,0,Almanor Energy Plus,,,,,-1,-1,,-1,,-1,-1,,,,6.585000887
+24-01-2012,11.0031,64802,14508,RES,CA,96134,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.88943116
+09-01-2012,6.1420326,38880,8099,RES,CA,96094,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.330152009
+06-03-2013,6.9,19122.5,8697,RES,CA,96014,pacific power,0,Whipple Electric,,,,,-1,-1,,-1,,-1,-1,,,,2.771376812
+05-12-2011,3.84,20000,4962,RES,CA,96104,pacific power,0,Top Hat Energy,,,,,-1,-1,,-1,,-1,-1,,,,5.208333333
+10-01-2012,4.0635934,19115.89,5358,RES,CA,96094,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.70418374
+22-03-2012,15.050768,54000,19094,RES,CA,96027,pacific power,0,Jody Groves Construction,,,,,-1,-1,,-1,,-1,-1,,,,3.587856779
+13-03-2012,6.21,40687.25,8121,RES,CA,96094,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.55189211
+12-07-2012,5.8940306,34000,7309,RES,CA,96094,pacific power,1,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.768548266
+02-08-2012,5.595973,30472.5,7378,RES,CA,96032,pacific power,0,Electron Connection,,,,,-1,-1,,-1,,-1,-1,,,,5.445433707
+27-02-2012,5.64,48887,6492,RES,CA,96064,pacific power,0,Talbott Solar,,,,,-1,-1,,-1,,-1,-1,,,,8.667907801
+14-05-2012,11.04,38299.73,10736,RES,CA,96032,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,3.469178442
+08-06-2012,7.68,44750,7667,RES,CA,96094,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.826822917
+04-05-2012,7.68,45000,7674,RES,CA,96094,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.859375
+18-11-2013,9.4,37070,8849,RES,CA,96027,pacific power,0,Jody Groves Construction,,,,,-1,-1,,-1,,-1,-1,,,,3.943617021
+14-03-2013,5.76,14133.36,5504,RES,CA,96058,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.453708333
+13-12-2012,8.46,33478,8010,RES,CA,96037,pacific power,0,Jody Groves Construction,,,,,-1,-1,,-1,,-1,-1,,,,3.957210402
+03-10-2012,15.672,94725,16925,RES,CA,96094,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.044218989
+29-10-2012,11.52,49878,10950,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.3296875
+19-07-2012,5.425,33325,5675,RES,CA,96094,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.142857143
+16-08-2012,4.219,25500,4533,RES,CA,96094,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.044086276
+20-09-2012,4.268,20728.39,4087,RES,CA,96094,pacific power,0,Eli Jones,,,,,-1,-1,,-1,,-1,-1,,,,4.856698688
+16-08-2012,6.748,47900,2591,RES,CA,96094,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,7.098399526
+06-09-2012,10.147,74000,10541,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,7.2927959
+22-04-2013,14.883,90000,15855,RES,CA,96038,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.04716791
+04-10-2012,10.72097,45550.75,9867,RES,CA,96094,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.248752678
+09-10-2012,11.759621,67500,11675,RES,CA,96097,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.739980906
+09-10-2012,9.02,53500,9187,RES,CA,96097,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.931263858
+31-12-2012,7.899662,40500,7743,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.126801628
+05-11-2012,7.278519,38545,7095,RES,CA,96037,pacific power,0,Electron Connection,,,,,-1,-1,,-1,,-1,-1,,,,5.295720187
+16-11-2012,4.840591,18845,3719,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,3.893119662
+09-01-2013,6.0646744,25750,4683,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.245899829
+07-11-2013,8.82,15863.01,6579,RES,CA,95531,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,1.798527211
+11-07-2013,4.35,18250,3668,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.195402299
+12-11-2014,5.5404,14624,5710,RES,CA,96027,pacific power,1,Whipple Electric,,,,,-1,-1,,-1,,-1,-1,,,,2.639520612
+28-08-2014,10.98,20538.75,8175,RES,CA,96094,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,1.870560109
+28-10-2013,12.49,38110,7866,RES,CA,96097,pacific power,0,Halcyon Solar,,,,,-1,-1,,-1,,-1,-1,,,,3.051240993
+09-09-2013,9.6588,29302.54,7404,RES,CA,96094,pacific power,0,West Coast Sustainables,,,,,-1,-1,,-1,,-1,-1,,,,3.033766099
+28-08-2013,4.344,8028.74,3344,RES,CA,96014,pacific power,0,William Hilton,,,,,-1,-1,,-1,,-1,-1,,,,1.848236648
+23-05-2013,13.05,35000,9957,RES,CA,96032,pacific power,0,Bradley Isabell,,,,,-1,-1,,-1,,-1,-1,,,,2.681992337
+10-01-2013,2.6592,35990,1788,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,13.53414561
+10-01-2014,2.94,11673,1848,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,3.970408163
+14-03-2013,9.922,53568,7318,RES,CA,96097,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.39891151
+23-04-2013,26.95,120712,19467,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.479109462
+29-05-2013,9.052,24855,5495,RES,CA,96097,pacific power,0,Bill Roberts,,,,,-1,-1,,-1,,-1,-1,,,,2.745802033
+16-04-2013,11.275,60200,8794,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.33924612
+29-10-2012,2.04,8302,1488,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.069607843
+07-06-2013,9.471,50300,7315,RES,CA,96038,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.310949213
+25-04-2013,9.922,54432,7326,RES,CA,96097,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.485990728
+08-08-2013,14.7,73500,10775,RES,CA,96038,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5
+08-08-2013,16.17,79380,11673,RES,CA,96097,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.909090909
+08-08-2013,11.76,59472,8574,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.057142857
+27-03-2013,6.867,39699,3634,RES,CA,96097,pacific power,1,The Solar Company,,,,,-1,-1,,-1,,-1,-1,,,,5.78112713
+28-01-2013,4.83,14230,2305,RES,CA,96101,pacific power,0,Top Hat Energy,,,,,-1,-1,,-1,,-1,-1,,,,2.946169772
+03-01-2014,5,7858.9,2729,RES,CA,96094,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,1.57178
+08-08-2013,11.025,51000,5314,RES,CA,96097,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.62585034
+16-08-2013,18.865,92610,9515,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.909090909
+15-08-2013,19.6,96000,9269,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.897959184
+16-08-2013,8.82,48400,4820,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.487528345
+28-01-2013,4.37,17527,2339,RES,CA,96104,pacific power,0,Top Hat Energy,,,,,-1,-1,,-1,,-1,-1,,,,4.010755149
+28-01-2013,5.06,14075,2693,RES,CA,96101,pacific power,0,Top Hat Energy,,,,,-1,-1,,-1,,-1,-1,,,,2.781620553
+28-01-2013,3.45,14124,1791,RES,CA,96104,pacific power,0,Top Hat Energy,,,,,-1,-1,,-1,,-1,-1,,,,4.093913043
+16-08-2013,13.23,64680,7234,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.888888889
+24-07-2013,10.2,41272,5395,RES,CA,96064,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.04627451
+06-08-2013,7.28,28693.31,3964,RES,CA,96067,pacific power,0,Bob Kroetch,,,,,-1,-1,,-1,,-1,-1,,,,3.941388736
+15-08-2013,8.5,24237,4457,RES,CA,96104,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.851411765
+19-09-2013,11.76,57800,6430,RES,CA,96044,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.914965986
+11-04-2014,15,50000,7470,RES,CA,96037,pacific power,1,Gregory Lindholm,,,,,-1,-1,,-1,,-1,-1,,,,3.333333333
+15-08-2013,9.54,39500,5045,RES,CA,96064,pacific power,0,Matson Services,,,,,-1,-1,,-1,,-1,-1,,,,4.140461216
+31-07-2013,2.695,10729.81,1262,RES,CA,95531,pacific power,0,Richterich Jones Construction,,,,,-1,-1,,-1,,-1,-1,,,,3.981376623
+27-11-2013,7.5,30750,3474,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.1
+07-03-2014,16.15,66420,8646,RES,CA,96067,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.112693498
+24-01-2014,8.5,30688.88,4678,RES,CA,96067,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,3.610456471
+18-08-2011,3.04,13410.09,1620,RES,CA,96097,pacific power,0,Electron Connection,,,,,-1,-1,,-1,,-1,-1,,,,4.411213816
+17-11-2014,8.54,4306,4040,RES,CA,96032,pacific power,0,A B Construction,,,,,-1,-1,,-1,,-1,-1,,,,0.504215457
+01-12-2014,4.65,9916.39,1923,RES,CA,96025,pacific power,0,Ryan Solar,,,,,-1,-1,,-1,,-1,-1,,,,2.132556989
+27-02-2014,5.16,10787,1977,RES,CA,96027,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.090503876
+01-04-2014,14.535,43000,5842,RES,CA,96067,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,2.958376333
+21-05-2014,14.64,26387.15,5957,RES,CA,96032,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,1.802400956
+06-06-2014,10.725,42292,3928,RES,CA,96097,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,3.943310023
+29-10-2013,4.2,52873.6,1391,RES,CA,96050,pacific power,0,Renewable Technologies,,,,,-1,-1,,-1,,-1,-1,,,,12.58895238
+07-05-2014,6.48,24000,2690,RES,CA,96067,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,3.703703704
+26-03-2015,8,19300,3261,RES,CA,96064,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.4125
+19-03-2014,4.59,23688.36,1477,RES,CA,95531,pacific power,0,Trinidad Electric,,,,,-1,-1,,-1,,-1,-1,,,,5.160862745
+28-08-2014,9.945,15919.18,3428,RES,CA,96027,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,1.600721971
+17-10-2014,13.2,43476,4826,RES,CA,96067,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.293636364
+08-08-2014,6.12,14878.52,2036,RES,CA,96027,pacific power,1,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.431130719
+27-04-2015,15.66,50774.52,5107,RES,CA,96067,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,3.242306513
+20-03-2015,7.5,24030,3059,RES,CA,96067,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.204
+23-02-2015,5.5,33625,1884,RES,CA,96064,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,6.113636364
+20-11-2014,7.15,24502,2973,RES,CA,96094,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.426853147
+13-04-2015,14.5,47472,5712,RES,CA,96067,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.273931034
+29-06-2015,5,27500,2016,RES,CA,96064,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.5
+21-04-2015,16.24,45571,6444,RES,CA,96101,pacific power,0,Almanor Energy Plus,,,,,-1,-1,,-1,,-1,-1,,,,2.806096059
+21-04-2015,10.08,28437,1199,RES,CA,96101,pacific power,0,Almanor Energy Plus,,,,,-1,-1,,-1,,-1,-1,,,,2.821130952
+21-05-2015,7.8,15039.73,3235,RES,CA,96064,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,1.928170513
+16-08-2016,2.85,7444.16,1153,RES,CA,96067,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.611985965
+23-06-2015,6.72,23876,2774,RES,CA,96067,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.55297619
+30-06-2015,7.8,19751.69,3202,RES,CA,96097,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,2.532267949
+31-08-2015,10.4,20019.38,3342,RES,CA,96027,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,1.924940385
+09-06-2015,9.156,41202,2947,RES,CA,96064,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,4.5
+09-07-2015,12.96,35362.46,3696,RES,CA,96032,pacific power,0,Whipple Electric,,,,,-1,-1,,-1,,-1,-1,,,,2.728584877
+02-07-2015,4.68,10566,1488,RES,CA,96027,pacific power,0,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.257692308
+30-06-2015,6.25,32812,1920,RES,CA,96097,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,5.24992
+28-07-2015,11.44,28000,3013,RES,CA,96032,pacific power,1,Self,,,,,-1,-1,,-1,,-1,-1,,,,2.447552448
+13-01-2016,8.4,41780,2449,RES,CA,96037,pacific power,0,Whipple Electric,,,,,-1,-1,,-1,,-1,-1,,,,4.973809524
+09-12-2015,20.48,67890,6233,RES,CA,96067,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.314941406
+14-12-2015,10.26,32832,1788,RES,CA,96094,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.2
+24-02-2016,6.867,2209,,RES,CA,96094,pacific power,0,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,0.321683413
+08-10-2015,12.48,39936,3659,RES,CA,96094,pacific power,1,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.2
+27-04-2016,6.4,26570,1809,RES,CA,96067,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,4.1515625
+07-01-2016,9.6,31680,3049,RES,CA,96067,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.3
+22-04-2016,11.4,36480,3584,RES,CA,96094,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.2
+27-09-2016,8.502,35000,2470,RES,CA,96101,pacific power,1,Smart Energy Usa,,,,,-1,-1,,-1,,-1,-1,,,,4.116678429
+14-10-2015,10.92,34320,3470,RES,CA,96094,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.142857143
+07-01-2016,13.75,4328,,RES,CA,96094,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,0.314763636
+17-12-2015,14.08,46464,4352,RES,CA,96034,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.3
+10-09-2015,5.2,19500,1637,RES,CA,96057,pacific power,0,Alpine Construction And Solar,,,,,-1,-1,,-1,,-1,-1,,,,3.75
+18-12-2015,8.55,45846,2334,RES,CA,96067,pacific power,0,Dickens Electric,,,,,-1,-1,,-1,,-1,-1,,,,5.362105263
+18-08-2015,10.92,41132,3448,RES,CA,96094,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.766666667
+30-06-2016,10.56,33792,2123,RES,CA,96094,pacific power,0,Addy Electric,,,,,-1,-1,,-1,,-1,-1,,,,3.2
+24-02-2016,10.464,37975,2851,RES,CA,96057,pacific power,1,Powerhouse Solar,,,,,-1,-1,,-1,,-1,-1,,,,3.629109327
+13-06-2006,5.85,16139.33,10260.8,RES_SF,CA,92250,imperial irrigation district,,Vics Ac Elect,0,,180,18,Siliken Canada,SLK60P6L SLV/WHT 225Wp,,Multi-c-Si,0.13858093,SMA America,sb7000us [240v],7,,,2.758859829
+15-09-2006,13.5,56604.26,5160,RES_SF,CA,92253,imperial irrigation district,,Accurate Air Electric,0,,270,17,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-S270RG,,Mono-c-Si,0.16496408,SolarEdge Technologies Ltd.,se11400a-us [240v],11.39,,,4.192908148
+02-11-2006,11.04,71760,21320.2,RES_SF,CA,92203,imperial irrigation district,,Self,0,,180,18,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,PV Powered,pvp4800,4.8,,,6.5
+22-12-2006,4.375,75640.5,8170.4,RES_SF,CA,92250,imperial irrigation district,,Rudy Schaffner,0,,180,30,Sharp,NT-175U1,,Mono-c-Si,0.13451709,SMA America,sb6000us [240v],6,,,17.28925714
+08-01-2008,2.1,18985.69,5130.29,RES_SF,CA,92253,imperial irrigation district,,Akeena Solar,0,,180,18,Kyocera Solar,KC175GT,,Multi-c-Si,0.14309591,Fronius USA,ig 3000 neg,2.7,,,9.040804762
+17-01-2008,8.64,50000,20966.4,RES_SF,CA,92201,imperial irrigation district,,Collins Electric,0,,180,18,Suntech Power,STP180S-24/Adb+,,Mono-c-Si,0.14099512,SMA America,sb4000us [208v],3.5,,,5.787037037
+28-01-2008,11.48,92000,28000,RES_SF,CA,92253,imperial irrigation district,,Self,0,,180,18,SunPower,SPR-205-BLK-U,,Mono-c-Si,0.16478014,SunPower,spr-4000m [240v],4,,,8.013937282
+04-03-2008,12,91027.66,28134.4,RES_MF,CA,92233,imperial irrigation district,,Spg Solar,0,,210,18,Kyocera Solar,KC200GT,,Multi-c-Si,0.14735895,Fronius USA,ig 5100 pos,5.1,,,7.585638333
+04-03-2008,12,91027.66,21985.6,RES_MF,CA,92281,imperial irrigation district,,Spg Solar,0,,194,18,Kyocera Solar,KC200GT,,Multi-c-Si,0.14735895,Fronius USA,ig 5100 pos,5.1,,,7.585638333
+12-03-2008,4.455,39126,11010,RES_SF,CA,92203,imperial irrigation district,,Solar Plus,0,,180,18,Schuco USA,S 165-SPU,,Multi-c-Si,0.13053797,SMA America,sb6000us [240v],6,,,8.782491582
+28-03-2008,7.65,57310,18037.6,RES_SF,CA,92240,imperial irrigation district,,Self,0,,180,18,Sharp,NE-170U1,,Multi-c-Si,0.13067374,PV Powered,pvp5200,5.2,,,7.491503268
+31-03-2008,11.04,88041,25480,RES_SF,CA,92253,imperial irrigation district,,Self,0,,180,18,SunPower,SPR-230-WHT-U,,Mono-c-Si,0.18487528,SunPower,spr-7000m [240v],7,,,7.974728261
+30-04-2008,2.1,16800,4217.48,RES_SF,CA,92231,imperial irrigation district,,Stoffel Electric,0,,180,18,Suntech Power,STP175S-24/Ab-1,,Mono-c-Si,0.13707858,Xantrex Technology,gt2.8-na-240/208 [240v],2.8,,,8
+26-06-2008,5.07,36736,5645.14,RES_MF,CA,92247,imperial irrigation district,,California Solar Electric Systems,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+18-07-2008,5.07,36736,5645.14,RES_MF,CA,92247,imperial irrigation district,,California Solar Electric Systems,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+14-08-2008,5.07,36736,5645.14,RES_MF,CA,92247,imperial irrigation district,,California Solar Electric Systems,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+22-08-2008,5.07,36736,5645.14,RES_MF,CA,92247,imperial irrigation district,,California Solar Electric Systems,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+18-09-2008,3.36,26874.92,6892.93,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,Sharp,ND-224U1F,,Multi-c-Si,0.13740982,SMA America,sb4000us [240v],4,,,7.998488095
+30-10-2008,16.8,119483.59,34510.04,RES_SF,CA,92227,imperial irrigation district,,Solar Energy Center,0,,180,18,-1,-1,,-1,,SMA America,sb5000us [240v],5,,,7.112118452
+04-11-2008,4.928,40647,10056.99,RES_SF,CA,92247,imperial irrigation district,,Renova Energy,0,,180,18,Sharp,ND-224U1F,,Multi-c-Si,0.13740982,SMA America,sb5000us [240v],5,,,8.248173701
+05-11-2008,56.375,466373,64400,RES_SF,CA,92201,imperial irrigation district,,Permacity,0,,180,30,SunPower,SPR-205-BLK-U,,Mono-c-Si,0.16478014,Satcon Technology,ae-50-60-pv-d,50,,,8.272691796
+06-11-2008,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+10-11-2008,3.12,23734,6245.69,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+13-11-2008,3.12,23734,6245.69,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+02-12-2008,4.03,29374,8196.08,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt3.3n-na-240/208 [208v],3.1,,,7.288833747
+04-12-2008,9.43,71819,19236.09,RES_SF,CA,92201,imperial irrigation district,,Socal Solar,0,,180,30,Kyocera Solar,KD205GX-LP,,Multi-c-Si,0.13804714,PV Powered,pvp4800,4.8,,,7.616012725
+04-12-2008,24.6,118500,53063.34,RES_SF,CA,92241,imperial irrigation district,,Petersendean,0,,180,15,Kaneka,G-SA060,,-1,,SMA America,sb6000us [240v],6,,,4.817073171
+11-12-2008,4.03,29374,8196.08,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt3.3n-na-240/208 [208v],3.1,,,7.288833747
+16-12-2008,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [208v],4.5,,,7.245759369
+17-12-2008,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+19-12-2008,4.03,29374,8196.08,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt3.3n-na-240/208 [208v],3.1,,,7.288833747
+26-12-2008,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+30-12-2008,3.12,23734,6245.69,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+05-01-2009,4.03,29374,8196.08,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt3.3n-na-240/208 [208v],3.1,,,7.288833747
+07-01-2009,7.128,48396,14604.79,RES_SF,CA,92253,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,Sharp,ND-216U1F,,Multi-c-Si,0.13250233,SMA America,sb7000us [240v],7,,,6.78956229
+07-01-2009,4.48,36261,9191.16,RES_SF,CA,92253,imperial irrigation district,,Revco Solar,0,,180,18,Sharp,ND-224U1F,,Multi-c-Si,0.13740982,PV Powered,pvp5200,5.2,,,8.093973214
+09-02-2009,5.85,40676,11897.54,RES_SF,CA,92253,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,6.953162393
+18-02-2009,6.075,45390.62,12922.97,RES_SF,CA,92253,imperial irrigation district,,Sequoia Solar,0,,180,18,SunPower,SPR-225-BLK-U,,Mono-c-Si,0.18085624,SunPower,spr-6000m [240v],6,,,7.471706996
+23-02-2009,5.148,37500,10387.55,RES_SF,CA,92211,imperial irrigation district,,Petersendean,0,,180,18,Sharp,ND-198U1F,,Multi-c-Si,0.13359837,Fronius USA,ig 5100 neg,5.1,,,7.284382284
+25-02-2009,4.03,29374,8196.08,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt3.3n-na-240/208 [208v],3.1,,,7.288833747
+03-03-2009,5.52,57200,13701.57,RES_SF,CA,92201,imperial irrigation district,,Mohr Power Solar,0,,180,18,SunPower,SPR-230-WHT-U,,Mono-c-Si,0.18487528,SunPower,spr-6000m [240v],6,,,10.36231884
+03-03-2009,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+19-03-2009,4.752,32018,7841,RES_SF,CA,92201,imperial irrigation district,,Rgs Energy,0,,180,18,Sharp,ND-216U1F,,Multi-c-Si,0.13250233,SMA America,sb4000us [240v],4,,,6.737794613
+23-03-2009,2.604,21436,6056.69,RES_SF,CA,92201,imperial irrigation district,,Petersendean,0,,180,18,Sharp,ND-62RU1F,,Multi-c-Si,0.105077624,PV Powered,pvp2500,2.5,,,8.231950845
+30-03-2009,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+13-04-2009,6.8,54008,17510.68,RES_SF,CA,92210,imperial irrigation district,,Sunwize Technologies,0,,122,18,SANYO ELECTRIC CO LTD OF PANASONIC GROUP,HIP-200BA20,,Mono-c-Si,0.17243758,Xantrex Technology,gt2.8-na-240/208 [240v],2.8,,,7.942352941
+21-04-2009,4.03,29374,8196.08,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt3.3n-na-240/208 [208v],3.1,,,7.288833747
+01-05-2009,4.03,29374,8196.08,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt3.3n-na-240/208 [208v],3.1,,,7.288833747
+11-05-2009,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+18-05-2009,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+01-06-2009,8.2,61938,19912.7,RES_SF,CA,92247,imperial irrigation district,,Kdb Custom Lighting Electric,0,,180,18,Solar Power (SPI),SP205FPA2,,Multi-c-Si,0.14105634,SMA America,sb7000us [240v],7,,,7.553414634
+30-06-2009,3.51,28179,8086.47,RES_SF,CA,92201,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,PV Powered,pvp3000,3,,,8.028205128
+21-07-2009,4.62,37411,11229.92,RES_SF,CA,92201,imperial irrigation district,,Solar Plus,0,,180,18,Schuco USA,-1,,-1,,SMA America,sb4000us [240v],4,,,8.097619048
+22-07-2009,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+27-07-2009,3.51,28179,8086.47,RES_SF,CA,92201,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,PV Powered,pvp3000,3,,,8.028205128
+27-07-2009,3.51,28179,8086.47,RES_SF,CA,92201,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,PV Powered,pvp3000,3,,,8.028205128
+13-08-2009,4.464,43519,11128.11,RES_MF,CA,92247,imperial irrigation district,,Sunwize Technologies,0,,180,18,SANYO ELECTRIC CO LTD OF PANASONIC GROUP,HIP-186DA3,,Mono-c-Si,0.1533138,SMA America,sb6000us [240v],6,,,9.748879928
+14-08-2009,4.03,29374,8196.08,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt3.3n-na-240/208 [208v],3.1,,,7.288833747
+19-08-2009,13.65,97426.67,29161.45,RES_SF,CA,92201,imperial irrigation district,,Sequoia Solar,0,,180,18,SunPower,SPR-230-WHT-U,,Mono-c-Si,0.18487528,SunPower,spr-6000m [240v],6,,,7.137484982
+15-09-2009,7.776,47047.52,17902.08,RES_SF,CA,92210,imperial irrigation district,,Sequoia Solar,0,,180,18,Sharp,ND-U216C1,,Multi-c-Si,0.13250233,SMA America,sb7000us [240v],7,,,6.050349794
+17-09-2009,4.03,29374,8196.08,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt3.3n-na-240/208 [208v],3.1,,,7.288833747
+25-09-2009,3.51,28179,7308.93,RES_SF,CA,92201,imperial irrigation district,,Petersendean,0,,270,18,-1,-1,,-1,,PV Powered,pvp3000,3,,,8.028205128
+05-10-2009,5.07,36736,5645.14,RES_MF,CA,92247,imperial irrigation district,,California Solar Electric Systems,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+06-10-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+13-10-2009,5.184,30105.42,11872.56,RES_SF,CA,92201,imperial irrigation district,,Sequoia Solar,0,,180,18,Sharp,ND-216UC1,,Multi-c-Si,0.13250233,SMA America,sb5000us [240v],5,,,5.807372685
+19-10-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+20-10-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+21-10-2009,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+21-10-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+22-10-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+23-10-2009,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+27-10-2009,5.07,36736,5645.14,RES_MF,CA,92247,imperial irrigation district,,California Solar Electric Systems,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+27-10-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+28-10-2009,13.5,96240,32553.27,RES_SF,CA,92210,imperial irrigation district,,Sequoia Solar,0,,180,18,SunPower,SPR-225-BLK-U,,Mono-c-Si,0.18085624,SunPower,spr-6000m [240v],6,,,7.128888889
+02-11-2009,7.995,64174,19709.2,RES_SF,CA,92253,imperial irrigation district,,Self,0,,180,18,SunPower,SPR-205-BLK-U,,Mono-c-Si,0.16478014,SunPower,spr-3000m [240v],3,,,8.026766729
+03-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+03-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+03-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+04-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+05-11-2009,5.07,36736,9319.69,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+06-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+06-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+06-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+06-11-2009,5.07,36736,5645.14,RES_MF,CA,92247,imperial irrigation district,,California Solar Electric Systems,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+10-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+17-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+18-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+19-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+19-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+19-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+20-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+20-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+20-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+23-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+25-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+30-11-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 pos,2.7,,,7.607051282
+07-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+08-12-2009,6.75,51085.7,16361.85,RES_SF,CA,92210,imperial irrigation district,,Sequoia Solar,0,,180,30,SunPower,SPR-225-BLK-U,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,7.568251852
+09-12-2009,6.75,43466,16361.85,RES_SF,CA,92210,imperial irrigation district,,Sequoia Solar,0,,180,18,SunPower,SPR-225-BLK-U,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,6.439407407
+09-12-2009,9.9,68719.09,23872.4,RES_SF,CA,92210,imperial irrigation district,,Sequoia Solar,0,,180,18,SunPower,SPR-225-BLK-U,,Mono-c-Si,0.18085624,SunPower,spr-5000m [240v],5,,,6.941322222
+10-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+10-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+11-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+14-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+14-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+17-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+17-12-2009,5.4,43160,13089.5,RES_SF,CA,92247,imperial irrigation district,,Solar Distributors,0,,140,15,SunPower,SPR-225-BLK-U,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,7.992592593
+18-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+21-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+21-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+21-12-2009,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+22-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+22-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+22-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+22-12-2009,3.12,23734,6245.69,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+23-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+23-12-2009,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+23-12-2009,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+29-12-2009,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+29-12-2009,7.2,53070,16575.25,RES_SF,CA,92210,imperial irrigation district,,Solar Distributors,0,,180,18,Solar Power (SPI),SP200FPA2,,Multi-c-Si,0.13761593,"OutBack Power Technologies, Inc.",gvfx3648,3.037,,,7.370833333
+31-12-2009,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+01-01-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+01-01-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+01-01-2010,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+01-01-2010,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+01-01-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+01-01-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+01-01-2010,5.07,36736,9319.69,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+01-01-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+01-01-2010,5.07,36736,10311.2,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+04-01-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+04-01-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+04-01-2010,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+07-01-2010,13.76,90414,30971.94,RES_SF,CA,92253,imperial irrigation district,,Sunwize Technologies,0,,180,18,SANYO ELECTRIC CO LTD OF PANASONIC GROUP,HIP-215NKHA6,,Mono-c-Si,0.17246635,SMA America,sb6000us [240v],6,,,6.570784884
+08-01-2010,8.19,47205.03,17969.7,RES_SF,CA,92253,imperial irrigation district,,Sequoia Solar,0,,180,18,Kyocera Solar,KD210GX-LPU,,Multi-c-Si,0.14141414,SMA America,sb7000us [240v],7,,,5.763739927
+11-01-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+21-01-2010,4.4,28391.93,9955.53,RES_SF,CA,92240,imperial irrigation district,,Bill Daily,0,,180,18,Suntech Power,STP200-18/UB-1,,Multi-c-Si,0.13622494,PV Powered,pvp4800,4.8,,,6.452711364
+26-01-2010,40,234001.125,86411.52,RES,CA,92274,imperial irrigation district,,Mj Wilson Contractors,0,,180,18,GE Energy,GEPVp-200-M,,Multi-c-Si,0.13728862,Yaskawa Solectria Solar,pvi 5000s [208v],4.4,,,5.850028125
+27-01-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+02-02-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+04-02-2010,5.72,42044,12651.34,RES_SF,CA,92260,imperial irrigation district,,Renova Energy,0,,180,18,Siliken Canada,SLK60P6L BLK/WHT 220Wp,,Multi-c-Si,0.13550135,Enphase Energy Inc.,m190-72-240-sxx (-na),0.19,,,7.35034965
+09-02-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+10-02-2010,8.4,46116,18545.74,RES_SF,CA,92211,imperial irrigation district,,Helio Power,0,,180,18,Canadian Solar Inc.,CS6P-200PE,,Multi-c-Si,0.12433821,SMA America,sb7000us [240v],7,,,5.49
+16-02-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+19-02-2010,5.46,41028,11853.84,RES_SF,CA,92203,imperial irrigation district,,Solar Energy Exchange,0,,180,18,-1,-1,,-1,,SMA America,sb3000us [240v],3,,,7.514285714
+03-03-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+10-03-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+15-03-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+31-03-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+01-04-2010,4.4,24138.81,9724.92,RES_SF,CA,92201,imperial irrigation district,,Helio Power,0,,180,18,Canadian Solar Inc.,CS6P-200PE,,Multi-c-Si,0.12433821,SMA America,sb4000us [240v],4,,,5.486093182
+01-04-2010,3.51,25679,6823.16,RES_SF,CA,92201,imperial irrigation district,,Sunpower,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.315954416
+01-04-2010,4.4,24138.81,9724.92,RES_SF,CA,92203,imperial irrigation district,,Helio Power,0,,180,18,Canadian Solar Inc.,CS6P-200PE,,Multi-c-Si,0.12433821,SMA America,sb4000us [240v],4,,,5.486093182
+09-04-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+14-04-2010,16.25,79625,5909,RES,CA,92253,imperial irrigation district,,Tesla,0,,296,18,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,Fronius USA,ig plus v 11.4 [240v],11.4,,,4.9
+14-04-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 pos,2.7,,,7.607051282
+21-04-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,270,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+21-04-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Ocr Solar And Roofing,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+21-04-2010,3.12,23734,5645.14,RES_SF,CA,92247,imperial irrigation district,,Petersendean,0,,180,18,-1,-1,,-1,,Fronius USA,ig 3000 neg,2.7,,,7.607051282
+10-05-2010,9,52699,20360.6,RES_SF,CA,92201,imperial irrigation district,,Sungevity,0,,180,18,"CSI Solar Co., Ltd.",CS5A-180M,,Mono-c-Si,0.14088972,KACO,blueplanet 3502xi [240v],3.5,,,5.855444444
+09-06-2010,9.89,118689,22528.26,RES_SF,CA,92247,imperial irrigation district,,Kent Salveson,0,,180,18,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,SMA America,sb6000us [240v],6,,,12.00091001
+29-06-2010,11.16,89600,24915.07,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,SUNGEN International,SGM-180D,,Mono-c-Si,0.14259143,PV Powered,pvp5200,5.2,,,8.028673835
+29-06-2010,9.6,56528.99,21834.8,RES_MF,CA,92247,imperial irrigation district,,Helio Power,0,,180,18,"CSI Solar Co., Ltd.",CS6P-240M,,Mono-c-Si,0.15496019,SMA America,sb8000us [240v],7.6,,,5.888436458
+20-07-2010,12.6,87570.69,28893.8,RES_SF,CA,92247,imperial irrigation district,,Helio Power,0,,180,18,SunPower,SPR-315E-WHT-D,,Mono-c-Si,0.19316693,SMA America,sb7000us [240v],7,,,6.950054762
+20-07-2010,16.1,113317.19,37010.26,RES_SF,CA,92210,imperial irrigation district,,Helio Power,0,,180,18,SunPower,SPR-230-WHT-U,,Mono-c-Si,0.18487528,SMA America,sb8000us [240v],7.6,,,7.038334783
+11-08-2010,9.66,110670,21658.73,RES_SF,CA,92201,imperial irrigation district,,Kent Salveson,0,,180,18,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,Xantrex Technology,gt2.5-na-ds-240,2.5,,,11.45652174
+11-08-2010,5.52,57600,12244.75,RES_SF,CA,92201,imperial irrigation district,,Kent Salveson,0,,180,30,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,SMA America,swr2500u [240v],2.5,,,10.43478261
+11-08-2010,4.6,36800,8736.2,RES_SF,CA,92247,imperial irrigation district,,United Solar Energy,0,,180,18,Bosch Solar Energy,c-Si M 60-230-16,,Mono-c-Si,0.15323117,PV Powered,pvp3000,3,,,8
+15-09-2010,7.38,47970,16218.8,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,18,SUNGEN International,SGM-180D,,Mono-c-Si,0.14259143,PV Powered,pvp2500,2.5,,,6.5
+09-11-2010,9.5,47524.88,20467.2,RES_SF,CA,92211,imperial irrigation district,,Helio Power,0,,180,18,"CSI Solar Co., Ltd.",CS5A-190M,,Mono-c-Si,0.14871693,SMA America,sb8000us [240v],7.6,,,5.002618947
+21-12-2010,8.46,50754,19022.52,RES_SF,CA,92201,imperial irrigation district,,Renova Energy,0,,180,18,Sharp,NU-U235F1,,Mono-c-Si,0.14415763,Yaskawa Solectria Solar,pvi 4000s [240v],4.02,,,5.99929078
+21-12-2010,6.72,82400,16449.89,RES_SF,CA,92210,imperial irrigation district,,Kent Salveson,0,,180,30,Solon,Solon Blue XT 280,,Multi-c-Si,0.15512465,SMA America,sb8000us [240v],7.6,,,12.26190476
+21-12-2010,7.2,55200,16373.76,RES_SF,CA,92211,imperial irrigation district,,Suntrek Industries,0,,180,18,SunPower,SPR-225-BLK-U,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,7.666666667
+21-12-2010,9.66,98400,22580.38,RES_SF,CA,92201,imperial irrigation district,,Kent Salveson,0,,180,18,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,SMA America,sb8000us-12 [240v],7.6,,,10.1863354
+13-01-2011,5.04,35692,11614.2,RES_SF,CA,92211,imperial irrigation district,,Sunwize Technologies,0,,180,18,SANYO ELECTRIC CO LTD OF PANASONIC GROUP,HIT-N210A01,,Mono-c-Si,0.16840418,Fronius USA,ig plus a 5.0 [240v],5,,,7.081746032
+06-04-2011,7.59,51000,14762,RES_SF,CA,92241,imperial irrigation district,,Solar Energy,0,,180,18,SunPower,SPR-230E-WHT-D,,Mono-c-Si,0.18487528,SMA America,sb7000us [240v],7,,,6.719367589
+10-05-2011,3.6,25700,7405.2,RES_SF,CA,92201,imperial irrigation district,,Solar Distributors,0,,180,18,SunPower,SPR-225-BLK-U,,Mono-c-Si,0.18085624,SunPower,spr-3000m [240v],3,,,7.138888889
+11-05-2011,6.75,34425,12680.8,RES_SF,CA,92247,imperial irrigation district,,Sea Bright Solar,0,,180,34,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-6000m [240v],6,,,5.1
+20-06-2011,16.104,77789,31949,RES_SF,CA,92253,imperial irrigation district,,Sun Best Solar,0,,180,18,Samsung SDI,LPC244SM-08,,Mono-c-Si,0.15243712,Fronius USA,ig plus a 7.5 [240v],7.5,,,4.830414804
+20-06-2011,7.755,40698,15052.4,RES_SF,CA,92253,imperial irrigation district,,Solalite Coachella Valley,0,,180,18,Schott Solar,Poly 235,,Multi-c-Si,0.14044902,Enphase Energy Inc.,d380-72-240-s1x,0.38,,,5.247969052
+22-06-2011,5.52,48210,11737,RES_SF,CA,92253,imperial irrigation district,,Solar Distributors,0,,180,18,SunPower,SPR-230-WHT-U,,Mono-c-Si,0.18487528,SunPower,spr-5000m [240v],5,,,8.733695652
+22-06-2011,7.425,44476,14592.6,RES_SF,CA,92253,imperial irrigation district,,Stellar Solar,0,,180,18,Mitsubishi Electric,PV-UJ225GA6,,Multi-c-Si,0.13652481,SunPower,spr-7000m [240v],7,,,5.99003367
+22-06-2011,7.425,44550,15584.8,RES_SF,CA,92247,imperial irrigation district,,Solar Distributors,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,6
+22-06-2011,6.44,48300,12729,RES_SF,CA,92251,imperial irrigation district,,Tesla,0,,180,18,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,PV Powered,pvp3500,3.5,,,7.5
+30-06-2011,2.88,23950,5324,RES_SF,CA,92251,imperial irrigation district,,Solar West,0,,180,18,"Phono Solar Technology Co., Ltd.",PS240M-20/U,,Mono-c-Si,0.14752163,SMA America,sb3800us [240v],4.05,,,8.315972222
+01-07-2011,3.36,22600,7558.38,RES_SF,CA,92283,imperial irrigation district,,Mac Electric,0,,180,18,Sharp,NU-U240F1,,Mono-c-Si,0.14722481,SMA America,sb4000us [240v],4,,,6.726190476
+05-07-2011,10.34,60727,20086,RES_SF,CA,92211,imperial irrigation district,,Rgs Energy,0,,180,18,Kyocera Solar,KD235GX-LPB,,Multi-c-Si,0.14805743,SMA America,sb7000us [240v],7,,,5.873017408
+05-07-2011,8.052,47507,16214,RES_SF,CA,92211,imperial irrigation district,,Sun Best Solar,0,,180,18,Samsung SDI,LPC244SM-08,,Mono-c-Si,0.15243712,Fronius USA,ig plus a 7.5 [240v],7.5,,,5.900024839
+05-07-2011,4.6,27128,9244.4,RES_SF,CA,92201,imperial irrigation district,,Sun Best Solar,0,,180,18,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,Fronius USA,ig 4000 pos,4,,,5.897391304
+18-07-2011,6.66,46620,15996.2,RES_SF,CA,92247,imperial irrigation district,,Progressive Energy Solutions,0,,180,18,Schuco USA,MPE 185 MS 05,,Mono-c-Si,0.14491165,Enphase Energy Inc.,d380-72-240-s1x,0.38,,,7
+18-07-2011,11.04,71760,21320.2,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,180,18,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,PV Powered,pvp4800,4.8,,,6.5
+27-07-2011,6.344,38952,12850.2,RES_SF,CA,92210,imperial irrigation district,,Sunwize Technologies,0,,180,18,Samsung SDI,LPC244SM-08,,Mono-c-Si,0.15243712,Fronius USA,ig plus a 6.0 [240v],6,,,6.139974779
+27-07-2011,8.46,43333.45,15754.2,RES_SF,CA,92201,imperial irrigation district,,Helio Power,0,,180,18,ET Solar Industry,ET-P660235B,,Multi-c-Si,0.14444827,SMA America,sb7000us [240v],7,,,5.12215721
+28-07-2011,10.234,58845.5,19069.6,RES_SF,CA,92201,imperial irrigation district,,Electricare,0,,180,18,SunPower,SPR-238E-WHT-D,,Mono-c-Si,0.19130571,SunPower,spr-7000m [240v],7,,,5.75
+28-07-2011,10.5,51210.08,20303.8,RES_SF,CA,92253,imperial irrigation district,,Helio Power,0,,180,18,"CSI Solar Co., Ltd.",CS5P-250M,,Mono-c-Si,0.15253185,SMA America,sb8000us [240v],7.6,,,4.877150476
+28-07-2011,8.1,44856.5,15851,RES_SF,CA,92247,imperial irrigation district,,Absolute Electric,0,,180,18,"CSI Solar Co., Ltd.",CS6P-225P,,Multi-c-Si,0.1398805,SMA America,sb7000us [240v],7,,,5.537839506
+28-07-2011,4.95,35640,9776.8,RES_SF,CA,92253,imperial irrigation district,,Advanced Solar Electric,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-5000m [240v],5,,,7.2
+08-08-2011,8.46,45306.4,16625.4,RES_SF,CA,92201,imperial irrigation district,,Helio Power,0,,180,18,ET Solar Industry,ET-P660235B,,Multi-c-Si,0.14444827,SMA America,sb7000us [240v],7,,,5.35536643
+08-08-2011,8.775,46420,16407.6,RES_SF,CA,92240,imperial irrigation district,,Helio Power,0,,180,18,"CSI Solar Co., Ltd.",CS6P-225P,,Multi-c-Si,0.1398805,SMA America,sb8000us [240v],7.6,,,5.29002849
+08-08-2011,5.76,24847.73,11858,RES_SF,CA,92201,imperial irrigation district,,Helio Power,0,,180,18,"CSI Solar Co., Ltd.",CS5P-240M,,Mono-c-Si,0.14119956,SMA America,sb6000us [240v],6,,,4.313842014
+15-08-2011,6.02,32799.3,11253,RES_SF,CA,92211,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Fronius USA,ig plus a 6.0 [240v],6,,,5.448388704
+16-08-2011,7.92,41031.79,16044.6,RES_SF,CA,92253,imperial irrigation district,,Helio Power,0,,180,18,"CSI Solar Co., Ltd.",CS5A-180M,,Mono-c-Si,0.14088972,SMA America,sb8000us [240v],7.6,,,5.180781566
+16-08-2011,7.68,42470.4,15802.6,RES_SF,CA,92201,imperial irrigation district,,Helio Power,0,,180,18,"CSI Solar Co., Ltd.",CS5P-240M,,Mono-c-Si,0.14119956,SMA America,sb7000us [240v],7,,,5.53
+25-08-2011,3.22,25695.6,6050,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,Fronius USA,ig plus v 3.8 [240v],3.8,,,7.98
+25-08-2011,6.58,52508.4,11906.4,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Fronius USA,ig plus a 6.0 [240v],6,,,7.98
+25-08-2011,4.95,26977.5,9510.6,RES_SF,CA,92253,imperial irrigation district,,California Green Designs,0,,180,18,Suntech Power,STP225-20/Wd,,Multi-c-Si,0.1363624,Enphase Energy Inc.,d380-72-240-s1x,0.38,,,5.45
+01-09-2011,11.025,145000,21199.2,RES_SF,CA,92247,imperial irrigation district,,Kent Salveson,0,,180,18,"CSI Solar Co., Ltd.",CS6P-225P,,Multi-c-Si,0.1398805,SMA America,sb8000us [240v],7.6,,,13.15192744
+01-09-2011,5.52,44049.6,9220.2,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,Fronius USA,ig plus a 5.0 [240v],5,,,7.98
+14-09-2011,8.88,53118,16480.2,RES_SF,CA,92253,imperial irrigation district,,Driven Electric,0,,180,18,REC Solar,REC240PE2,,Multi-c-Si,0.15133554,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,5.981756757
+15-09-2011,13.5,87332.7,26862,RES_SF,CA,92250,imperial irrigation district,,Aet Solar,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,6.469088889
+19-09-2011,5.06,36113,9413.8,RES_SF,CA,92273,imperial irrigation district,,Herca Solar,0,,180,18,SunPower,SPR-230E-WHT-D,,Mono-c-Si,0.18487528,SunPower,spr-7000m [240v],7,,,7.136956522
+19-09-2011,6.75,44049,13794,RES_SF,CA,92253,imperial irrigation district,,Solar Plus,0,,180,18,SunPower,SPR-225-BLK-U,,Mono-c-Si,0.18085624,SunPower,spr-6000m [240v],6,,,6.525777778
+22-09-2011,10.83,45486,22191.4,RES,CA,92274,imperial irrigation district,,Sunvalley Solar Solutions,0,,180,18,Baoding Tianwei Solarfilms,TWSF-aSi-95W-1,,Thin Film,0.066433564,PV Powered,pvp4800,4.8,,,4.2
+04-10-2011,4.9,62279,8929.8,RES_SF,CA,92203,imperial irrigation district,,Psr West Coast Builders,0,,180,18,Andalay Solar,ST_175_1_DC0_0_B,,Mono-c-Si,0.13707858,Enphase Energy Inc.,m190-72-240-sxx (-na),0.19,,,12.71
+04-10-2011,6.58,52508.4,10067.2,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,SMA America,sb6000us [240v],6,,,7.98
+12-10-2011,8.6,58833,17327.2,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,SANYO ELECTRIC CO LTD OF PANASONIC GROUP,HIT-N215A01,,Mono-c-Si,0.1724138,SMA America,sb8000us [240v],7.6,,,6.841046512
+19-10-2011,9.66,77086.8,17811.2,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,270,5,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,Fronius USA,ig plus a 10.0 [240v],10,,,7.98
+25-10-2011,10.56,50662,19577.8,RES_SF,CA,92253,imperial irrigation district,,Driven Electric,0,,180,18,REC Solar,REC240PE2,,Multi-c-Si,0.15133554,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.797537879
+25-10-2011,8.28,66074.4,15488,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,SMA America,sb7000us [240v],7,,,7.98
+27-10-2011,4.7,30391,9002.4,RES_SF,CA,92201,imperial irrigation district,,Sungevity,0,,180,18,Sharp,NU-U235F3,,Mono-c-Si,0.14415763,KACO,blueplanet 5002xi [240v],5,,,6.466170213
+27-10-2011,7.425,51225,14374.8,RES_SF,CA,92253,imperial irrigation district,,Wright Building,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SMA America,sb7000us [240v],7,,,6.898989899
+03-11-2011,5.28,30513.63,10817.4,RES_SF,CA,92247,imperial irrigation district,,Rec Solar,0,,180,18,REC Solar,REC240PE (BLK),,Multi-c-Si,0.15124331,SMA America,sb5000us [240v],5,,,5.779096591
+08-11-2011,6.29,41870,10890,RES_SF,CA,92247,imperial irrigation district,,Sungevity,0,,180,18,Schuco USA,MPE 185 MS 05,,Mono-c-Si,0.14491165,KACO,blueplanet 3502xi [240v],3.5,,,6.656597774
+15-11-2011,5.06,52000,8712,RES_SF,CA,92201,imperial irrigation district,,Kent Salveson,0,,180,18,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,Xantrex Technology,gt2.8-na-240/208 [240v],2.8,,,10.27667984
+15-11-2011,12.84,132830,24853.4,RES_SF,CA,92210,imperial irrigation district,,Kent Salveson,0,,180,18,Solon,Solon Blue 270/09 280,,Multi-c-Si,0.15512465,SMA America,sb8000us [240v],7.6,,,10.34501558
+17-11-2011,23.52,115248,29250,RES_SF,CA,92203,imperial irrigation district,,Heating Air Technology,0,,256,8,Yingli Energy (China),YL245P-29b,,Multi-c-Si,0.1499847,Fronius USA,ig plus v 10.0-3 delta [240v],9.995,,,4.9
+17-11-2011,9.12,54686,19118,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,180,18,Sharp,NU-Q240F2,,Mono-c-Si,0.15260419,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,5.99627193
+17-11-2011,2.585,19128,5009.4,RES_SF,CA,92247,imperial irrigation district,,Swan Solar,0,,180,18,Schuco USA,MPE 235 PS 09,,Multi-c-Si,0.14311048,Schuco USA,sb3000us [240v],3,,,7.399613153
+22-11-2011,11.04,55200,22312.4,RES_SF,CA,92253,imperial irrigation district,,United Solar Energy,0,,280,20,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,SMA America,sb5000us-11 [240v],5,,,5
+01-12-2011,8.296,41920,16262.4,RES_SF,CA,92253,imperial irrigation district,,Solar Solutions,0,,180,18,Samsung SDI,LPC244SM-08,,Mono-c-Si,0.15243712,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,5.053037608
+01-12-2011,4.8,25850,8905.6,RES_SF,CA,92203,imperial irrigation district,,Driven Electric,0,,180,18,REC Solar,REC240PE2,,Multi-c-Si,0.15133554,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,5.385416667
+07-12-2011,4.8,20886.65,8857.2,RES_SF,CA,92247,imperial irrigation district,,Self,0,,180,18,Sharp,NU-Q240F2,,Mono-c-Si,0.15260419,Fronius USA,ig plus v 7.5 [240v],7.5,,,4.351385417
+07-12-2011,11.52,66240,22312.4,RES_SF,CA,92247,imperial irrigation district,,Sea Bright Solar,0,,180,18,SunPower,SPR-320E-WHT-D,,Mono-c-Si,0.19623306,SunPower,spr-6000m [240v],6,,,5.75
+14-12-2011,3.84,19392,8131.2,RES_SF,CA,92247,imperial irrigation district,,Renova Energy,0,,180,18,SunPower,SPR-240E-WHT-D,,Mono-c-Si,0.19291332,SunPower,spr-4000m [240v],4,,,5.05
+14-12-2011,16.56,107640,35574,RES_SF,CA,92270,imperial irrigation district,,Renova Energy,0,,267,18,SunPower,SPR-230E-WHT-D,,Mono-c-Si,0.18487528,SunPower,spr-8000f [240v],8,,,6.5
+14-12-2011,10.5,57200,19481,RES_SF,CA,92247,imperial irrigation district,,Sunvalley Solar Solutions,0,,180,18,China Sunergy (Nanjing),SST250-60M,,Multi-c-Si,0.15397881,SMA America,sb8000us [240v],7.6,,,5.447619048
+20-12-2011,11.1,111000,20570,RES_SF,CA,92247,imperial irrigation district,,Kent Salveson,0,,180,18,EcoSolargy,SDM-170/(185)-72M,,Mono-c-Si,0.14491165,SMA America,sb5000us [240v],5,,,10
+20-12-2011,10,75000,19335.8,RES,CA,92274,imperial irrigation district,,Tesla,0,,180,18,Grape Solar,GS-S-250-Fab5,,Mono-c-Si,0.12883942,PV Powered,pvp4800,4.8,,,7.5
+20-12-2011,10.105,80637.9,18295.2,RES_SF,CA,92270,imperial irrigation district,,Tesla,0,,180,18,Kyocera Solar,KD215GX-LPU,,Multi-c-Si,0.14478114,SMA America,sb6000us [240v],6,,,7.98
+04-01-2012,11.04,53640,21925.2,RES_SF,CA,92247,imperial irrigation district,,United Solar Energy,0,,180,18,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,Fronius USA,ig plus a 5.0 [240v],5,,,4.858695652
+04-01-2012,7.92,47485,13382.6,RES_SF,CA,92211,imperial irrigation district,,Renova Energy,0,,180,18,SunPower,SPR-240E-WHT-D,,Mono-c-Si,0.19291332,SunPower,spr-7000m [240v],7,,,5.995580808
+04-01-2012,11.25,84375,22893.2,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,120,20,Grape Solar,GS-S-250-Fab5,,Mono-c-Si,0.12883942,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,7.5
+04-01-2012,9.12,60256,19166.4,RES_SF,CA,92201,imperial irrigation district,,Renova Energy,0,,180,18,SunPower,SPR-240E-WHT-D,,Mono-c-Si,0.19291332,SunPower,spr-3000m [240v],3,,,6.607017544
+17-01-2012,9.66,69920,19093.8,RES_SF,CA,92276,imperial irrigation district,,Sungevity,0,,180,18,SunPower,SPR-230E-WHT-D,,Mono-c-Si,0.18487528,SMA America,sb4000us [240v],4,,,7.238095238
+17-01-2012,10,43057.89,19674.6,RES_SF,CA,92247,imperial irrigation district,,Helio Power,0,,180,18,"CSI Solar Co., Ltd.",CS5P-250M,,Mono-c-Si,0.15253185,SMA America,sb8000us [240v],7.6,,,4.305789
+17-01-2012,8.64,54423,16625.4,RES_SF,CA,92201,imperial irrigation district,,Helio Power,0,,180,18,SunPower,SPR-240E-WHT-D,,Mono-c-Si,0.19291332,SunPower,spr-4000m [240v],4,,,6.298958333
+17-01-2012,7.2,50900,14810.4,RES_SF,CA,92253,imperial irrigation district,,Solar Distributors,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,7.069444444
+19-01-2012,18,73834,36300,RES_SF,CA,92270,imperial irrigation district,,Solar Now,0,,180,18,CSG PVTech,CSG240M2,,Multi-c-Si,0.14752163,Enphase Energy Inc.,m190-72-240-sxx (-na),0.19,,,4.101888889
+26-01-2012,3.6,23316.11,6606.6,RES_SF,CA,92201,imperial irrigation district,,Lange Electric,0,,180,18,Ningbo Best Solar Energy Technology,B180(35)P1580X800,,Mono-c-Si,0.14099512,"OutBack Power Technologies, Inc.",gvfx3648,3.037,,,6.476697222
+26-01-2012,9.165,55538,15972,RES_SF,CA,92203,imperial irrigation district,,Gse Solar Systems,0,,180,18,Sharp,NU-U235F2,,Mono-c-Si,0.14942494,SMA America,sb8000us [240v],7.6,,,6.05979269
+27-01-2012,12.5,81250,24200,RES_SF,CA,92247,imperial irrigation district,1,Tesla,0,,180,18,Grape Solar,GS-S-250-Fab5,,Mono-c-Si,0.12883942,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,6.5
+27-01-2012,10.34,82513.2,17859.6,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Fronius USA,ig plus v 10.0 [240v],10,,,7.98
+31-01-2012,6.44,48300,12729.2,RES_SF,CA,92251,imperial irrigation district,,Tesla,0,,180,18,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,PV Powered,pvp3500,3.5,,,7.5
+31-01-2012,6.75,50625,13068,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,24,Grape Solar,GS-S-250-Fab5,,Mono-c-Si,0.12883942,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,7.5
+31-01-2012,13,58500,24200,RES_SF,CA,92274,imperial irrigation district,,Solar Solutions,0,,180,18,"CSI Solar Co., Ltd.",CS6P-250M,,Mono-c-Si,0.16141686,Power-One,pvi-5000-outd-us [240v],5,,,4.5
+07-02-2012,11.1,116800,21489.6,RES_SF,CA,92201,imperial irrigation district,,Kent Salveson,0,,180,15,EcoSolargy,SDM-170/(185)-72M,,Mono-c-Si,0.14491165,SMA America,sb7000us [240v],7,,,10.52252252
+07-02-2012,17.92,111158,36300,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,180,18,SunPower,SPR-320E-WHT-D,,Mono-c-Si,0.19623306,SunPower,spr-8000m [240v],7.6,,,6.203013393
+09-02-2012,4.83,38640,9583.2,RES_SF,CA,92201,imperial irrigation district,,United Solar Energy,0,,180,18,"CSI Solar Co., Ltd.",CS6P-230P,,Multi-c-Si,0.14298894,Power-One,pvi-4.2-outd-s-us [240v],4.2,,,8
+09-02-2012,11.04,60720,21852.6,RES_SF,CA,92247,imperial irrigation district,,United Solar Energy,0,,180,18,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,Fronius USA,ig 5100 neg,5.1,,,5.5
+15-02-2012,7.59,60720,15052.4,RES_MF,CA,92210,imperial irrigation district,,Equisolar,0,,180,18,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,SMA America,sb7000us [240v],7,,,8
+28-02-2012,8.385,43685.85,15875.2,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,180,18,Kyocera Solar,KD215GX-LPU,,Multi-c-Si,0.14478114,Fronius USA,ig plus v 7.5 [240v],7.5,,,5.21
+28-02-2012,13.5,95000,27757.4,RES_SF,CA,92247,imperial irrigation district,,Solar Distributors,0,,240,19,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-5000m [240v],5,,,7.037037037
+29-02-2012,7.59,60568.2,13261.6,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL230P-29b,,Multi-c-Si,0.14080197,Fronius USA,ig plus a 7.5 [240v],7.5,,,7.98
+29-02-2012,7.425,55836,15221.8,RES_SF,CA,92253,imperial irrigation district,,Solar Distributors,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,7.52
+29-02-2012,11.28,58768.8,17883.8,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Fronius USA,ig plus v 10.0 [240v],10,,,5.21
+29-02-2012,22.8,120175,35816,RES_SF,CA,92247,imperial irrigation district,,Hot Purple Energy,0,,226,18,SunPower,SPR-240E-WHT-D,,Mono-c-Si,0.19291332,SunPower,spr-10001f [240v],9.995,,,5.270833333
+14-03-2012,16.64,96904,31000.2,RES_SF,CA,92270,imperial irrigation district,,Herca Solar,0,,180,19,SunPower,SPR-320E-WHT-D,,Mono-c-Si,0.19623306,SunPower,spr-8000m [240v],7.6,,,5.823557692
+14-03-2012,9.9,75721,16615.5,RES_SF,CA,92253,imperial irrigation district,,Revco Solar,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-8000m [240v],7.6,,,7.648585859
+15-03-2012,13.44,78200,24926,RES_SF,CA,92270,imperial irrigation district,,Herca Solar,0,,265,19,SunPower,SPR-320E-WHT-D,,Mono-c-Si,0.19623306,SunPower,spr-8000m [240v],7.6,,,5.818452381
+15-03-2012,6.44,48000,14482,RES_SF,CA,92274,imperial irrigation district,,Heggie Electric,0,,180,28,"CSI Solar Co., Ltd.",CS5P-230M,,Mono-c-Si,0.13531625,SMA America,sb3000us [208v],3,,,7.453416149
+15-03-2012,11.52,69300,21489.6,RES_SF,CA,92203,imperial irrigation district,,Herca Solar,0,,180,18,SunPower,SPR-320E-WHT-D,,Mono-c-Si,0.19623306,SunPower,spr 11401f [240v],11.4,,,6.015625
+19-03-2012,16.56,95505.19,34364,RES_SF,CA,92243,imperial irrigation district,,L P Daniel Engineers Contractors,0,,180,18,Conergy,Conergy PH 230P,,Multi-c-Si,0.14006558,Fronius USA,ig plus a 10.0 [240v],10,,,5.767221618
+22-03-2012,8.64,43275,18150,RES_SF,CA,92201,imperial irrigation district,,Renova Energy,0,,180,18,SunPower,SPR-240E-WHT-D,,Mono-c-Si,0.19291332,SunPower,spr-8000f [240v],8,,,5.008680556
+22-03-2012,2.53,17000,5299.8,RES_SF,CA,92253,imperial irrigation district,,Heggie Electric,0,,180,18,"Chint Solar (Zhejiang) Co., Ltd.",CHSM6610P-230,,Multi-c-Si,0.14006558,SMA America,sb3000us [240v],3,,,6.719367589
+28-03-2012,10.34,80960,20207,RES_SF,CA,92203,imperial irrigation district,,United Solar Energy,0,,180,18,Sharp,ND-Q235Q2,,Multi-c-Si,0.14942494,Power-One,pvi-4.6-1-outd-x-us-y [240v],4.6,,,7.829787234
+11-04-2012,9.87,51422.7,16281.1,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Fronius USA,ig plus v 10.0 [240v],10,,,5.21
+11-04-2012,11,62481,18851.8,RES_SF,CA,92247,imperial irrigation district,,Precis Solar,0,,180,18,"Phono Solar Technology Co., Ltd.",PS250M-20/U,,Mono-c-Si,0.15366837,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,5.680090909
+11-04-2012,11,62481,18851.8,RES_SF,CA,92247,imperial irrigation district,,Precis Solar,0,,180,18,"Phono Solar Technology Co., Ltd.",PS250M-20/U,,Mono-c-Si,0.15366837,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,5.680090909
+11-04-2012,9.4,73600,17496.6,RES_SF,CA,92201,imperial irrigation district,,B L S Construction,0,,180,18,Sharp,ND-Q235Q2,,Multi-c-Si,0.14942494,SMA America,sb4000us [240v],4,,,7.829787234
+12-04-2012,11.25,83375,23135.2,RES_SF,CA,92241,imperial irrigation district,,Solar Distributors,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-10001f [240v],9.995,,,7.411111111
+12-04-2012,4.32,20245.73,8445.8,RES_MF,CA,92211,imperial irrigation district,,Solar Home,0,,180,18,"Phono Solar Technology Co., Ltd.",PS240P-20/U,,Multi-c-Si,0.14752163,Fronius USA,ig plus v 3.8 [240v],3.8,,,4.686511574
+19-04-2012,11,62481,18851.8,RES_SF,CA,92253,imperial irrigation district,,Precis Solar,0,,180,18,"Phono Solar Technology Co., Ltd.",PS250M-20/U,,Mono-c-Si,0.15366837,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,5.680090909
+01-05-2012,14.72,94500,26752,RES_SF,CA,92243,imperial irrigation district,,West Coast Solar Socal,0,,180,18,SunPower,SPR-230E-WHT-D,,Mono-c-Si,0.18487528,SunPower,spr-6000m [240v],6,,,6.419836957
+01-05-2012,14.72,94500,26752,RES_SF,CA,92243,imperial irrigation district,,West Coast Solar Socal,0,,180,18,SunPower,SPR-230E-WHT-D,,Mono-c-Si,0.18487528,SunPower,spr-6000m [240v],6,,,6.419836957
+03-05-2012,11.7,57611,18830.9,RES_SF,CA,92231,imperial irrigation district,,Solare Energy,0,,180,18,American Solar Wholesale,ASW-225P,,Multi-c-Si,0.13774104,SMA America,sb5000us [240v],5,,,4.924017094
+04-05-2012,13.5,91000,27781.6,RES_SF,CA,92203,imperial irrigation district,,Solar Distributors,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-4000m [240v],4,,,6.740740741
+08-05-2012,10.34,53871.4,16093,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Fronius USA,ig plus v 10.0 [240v],10,,,5.21
+08-05-2012,3.36,17505.6,5329.5,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL240P-29b,,Multi-c-Si,0.14692378,Power-One,pvi-3.0-outd-s-us [240v],3,,,5.21
+08-05-2012,3.33,23000,6122.6,RES_SF,CA,92203,imperial irrigation district,,Sunup Energy Solutions,0,,180,18,Schuco USA,MPE 185 MS 05,,Mono-c-Si,0.14491165,SMA America,sb3000us [240v],3,,,6.906906907
+10-05-2012,13.5,59265,22572,RES_SF,CA,92253,imperial irrigation district,,Driven Electric,0,,180,18,Siliken Canada,SLK60P6L SLV/WHT 250Wp,,Multi-c-Si,0.15397881,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.39
+10-05-2012,7.755,40403.55,12602.7,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Power-One,pvi-4.2-outd-s-us [240v],4.2,,,5.21
+10-05-2012,7.2,45338,13062.5,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,180,18,SunPower,SPR-240E-WHT-D,,Mono-c-Si,0.19291332,SunPower,spr-7000m [240v],7,,,6.296944444
+16-05-2012,12.22,63666.2,18998.1,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Fronius USA,ig plus v 11.4 [240v],11.4,,,5.21
+16-05-2012,7.74,40325.4,12853.5,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,18,Kyocera Solar,KD215GX-LPU,,Multi-c-Si,0.14478114,SMA America,sb7000us [240v],7,,,5.21
+16-05-2012,9.87,51422.7,16511,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Fronius USA,ig plus v 10.0 [240v],10,,,5.21
+23-05-2012,37.5,138750,31350,RES_SF,CA,92203,imperial irrigation district,,Driven Electric,0,,180,18,Siliken Canada,SLK60P6L SLV/WHT 250Wp,,Multi-c-Si,0.15397881,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,3.7
+23-05-2012,11.04,51888,19395.2,RES_SF,CA,92201,imperial irrigation district,,B L S Construction,0,,180,18,Sharp,ND-240QCJ,,Multi-c-Si,0.14722481,SMA America,sb6000us [240v],6,,,4.7
+24-05-2012,13.44,78200,24926,RES_SF,CA,92270,imperial irrigation district,,Herca Solar,0,,265,19,SunPower,SPR-320E-WHT-D,,Mono-c-Si,0.19623306,SunPower,spr-8000m [240v],7.6,,,5.818452381
+29-05-2012,13.5,91000,27781.6,RES_SF,CA,92203,imperial irrigation district,,Solar Distributors,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-4000m [240v],4,,,6.740740741
+13-06-2012,6.44,29640,8234.6,RES_SF,CA,92203,imperial irrigation district,,Sungevity,0,,180,18,SMX Capital,SMX230P,,Multi-c-Si,0.1413749,SMA America,sb4000us [240v],4,,,4.602484472
+13-06-2012,4,20000,6437.2,RES_SF,CA,92203,imperial irrigation district,,Sitko Construction,0,,180,18,"CSI Solar Co., Ltd.",CS6P-250M,,Mono-c-Si,0.16141686,Power-One,pvi-4.2-outd-s-us [240v],4.2,,,5
+19-06-2012,5.64,29384.4,9070.6,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Power-One,pvi-5000-outd-us [240v],5,,,5.21
+19-06-2012,10.105,80637.9,18295.2,RES_SF,CA,92270,imperial irrigation district,,Tesla,0,,180,18,Kyocera Solar,KD215GX-LPU,,Multi-c-Si,0.14478114,SMA America,sb6000us [240v],6,,,7.98
+21-06-2012,18.4,105984,31350,RES_SF,CA,92276,imperial irrigation district,,Elite Electric,0,,180,18,SunPower,SPR-230E-WHT-D,,Mono-c-Si,0.18487528,SunPower,spr-8000m [240v],7.6,,,5.76
+21-06-2012,5.83,29733,2073,RES_SF,CA,92201,imperial irrigation district,,Sunpower,0,,353,20,Kyocera Solar,KU265-6ZPA,,Multi-c-Si,0.16706036,ABB,pvi-5000-outd-us-z-a [240v],5,,,5.1
+28-06-2012,9.87,68496.9,16657.3,RES_SF,CA,92201,imperial irrigation district,,Desert Solar,0,,180,18,Sharp,ND-Q235Q2,,Multi-c-Si,0.14942494,SMA America,sb7000us [240v],7,,,6.939908815
+28-06-2012,12.6,74891,22781,RES_SF,CA,92253,imperial irrigation district,,Sullivan Solar Power,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,5.943730159
+03-07-2012,29.4,154350,52041,RES_MF,CA,92243,imperial irrigation district,,Soorya Unlimited,0,,180,18,"Phono Solar Technology Co., Ltd.",PS245M-20/U,,Mono-c-Si,0.15059501,SMA America,sb7000us [208v],7,,,5.25
+03-07-2012,10.81,56320.1,18162.1,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Power-One,pvi-4.2-outd-s-us [240v],4.2,,,5.21
+03-07-2012,10.56,68000,16866.3,RES_SF,CA,92253,imperial irrigation district,,Desert Solar,0,,180,18,Sharp,ND-240QCJ,,Multi-c-Si,0.14722481,Fronius USA,ig plus a 10.0 [240v],10,,,6.439393939
+10-07-2012,6.75,47750,13890.8,RES_SF,CA,92276,imperial irrigation district,,Solar Distributors,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,7.074074074
+10-07-2012,5.25,42000,11711.23,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,18,Grape Solar,CS-S-175-DJ,,Mono-c-Si,0.13682254,PV Powered,pvp5200,5.2,,,8
+24-07-2012,7.2,44975,13167,RES_SF,CA,92201,imperial irrigation district,,Sullivan Solar Power,0,,180,18,SunPower,SPR-225E-BLK-D,,Mono-c-Si,0.18085624,SunPower,spr-7000m [240v],7,,,6.246527778
+26-07-2012,7.92,38332,13292.4,RES_SF,CA,92241,imperial irrigation district,,Am Lasalle Electric,0,,180,18,Integrated Power,IPC240P01-US,,Multi-c-Si,0.13381015,SMA America,sb7000us [240v],7,,,4.83989899
+31-07-2012,8.385,34500,16649.6,RES_SF,CA,92253,imperial irrigation district,,Desert Power,0,,180,18,Canadian Solar Inc.,CS6P-215PE,,Multi-c-Si,0.13881849,Power-One,pvi-3.6-outd-s-us [240v],3.6,,,4.114490161
+31-07-2012,7.095,30000,13334.2,RES_SF,CA,92253,imperial irrigation district,,Desert Power,0,,180,18,Canadian Solar Inc.,CS6P-215PE,,Multi-c-Si,0.13881849,SMA America,sb7000us [240v],7,,,4.22832981
+14-08-2012,3.15,25200,5033.6,RES_SF,CA,92253,imperial irrigation district,,Secure Home Improvement,0,,180,18,American Solar Wholesale,ASW-225P,,Multi-c-Si,0.13774104,Enphase Energy Inc.,m190-72-240-sxx (-na),0.19,,,8
+14-08-2012,6.84,34200,12331,RES_SF,CA,92253,imperial irrigation district,,Hot Purple Energy,0,,180,18,Schuco USA,MPE 190 MS 05,,Mono-c-Si,0.1533881,Yaskawa Solectria Solar,pvi 6500-240 [240v],6.45,,,5
+23-08-2012,10.416,55726,16761.8,RES_SF,CA,92247,imperial irrigation district,,Vintage Electric,0,,180,18,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-S248MG,,Mono-c-Si,0.15336712,SMA America,sb8000us [240v],7.6,,,5.350038402
+17-09-2012,13.77,53019.63,24453,RES_SF,CA,92250,imperial irrigation district,,Tom Watson,0,,180,18,-1,-1,,-1,,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,3.850372549
+10-10-2012,13.77,50000,24453,RES_SF,CA,92243,imperial irrigation district,,Tom Watson,0,,180,18,-1,-1,,-1,,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,3.631082062
+06-12-2012,8.96,40320,14811,RES_SF,CA,92211,imperial irrigation district,,Renova Energy,0,,225,24,SunPower,SPR-320E-WHT-D,,Mono-c-Si,0.19623306,Fronius USA,ig plus a 7.5 [240v],7.5,,,4.5
+16-04-2013,4.23,33755.4,7502,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,180,18,Yingli Energy (China),YL235P-29b,,Multi-c-Si,0.14386287,Fronius USA,ig 4000 neg,4,,,7.98
+30-04-2013,8.96,40320,14811,RES_SF,CA,92211,imperial irrigation district,,Renova Energy,0,,225,24,SunPower,SPR-320E-WHT-D,,Mono-c-Si,0.19623306,Fronius USA,ig plus a 7.5 [240v],7.5,,,4.5
+07-05-2013,9.604,48020,14709,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,240,20,SunPower,SPR-343J-WHT-D,,Mono-c-Si,0.21033731,SMA America,sb8000us [240v],7.6,,,5
+07-05-2013,6.867,36069,10264,RES_SF,CA,92201,imperial irrigation district,,Renova Energy,0,,270,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-6000m [240v],6,,,5.252512014
+07-05-2013,5.232,27367,8866,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,180,20,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-5000m [240v],5,,,5.230695719
+13-05-2013,6.86,28357,11115,RES_SF,CA,92201,imperial irrigation district,,Rgs Energy,0,,220,19,"CSI Solar Co., Ltd.",CS6P-245M,,Mono-c-Si,0.15818852,SMA America,sb6000us [240v],6,,,4.133673469
+13-05-2013,7.848,41202,12058,RES_SF,CA,92201,imperial irrigation district,,Renova Energy,0,,90,4,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7000m [240v],7,,,5.25
+21-05-2013,11.445,60069,19210,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,215,23,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-10001f [240v],9.995,,,5.248492792
+21-05-2013,13.08,68670,22057,RES_SF,CA,92201,imperial irrigation district,,Renova Energy,0,,180,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr 11401f [240v],11.4,,,5.25
+21-05-2013,5.52,26218,8926,RES_SF,CA,92211,imperial irrigation district,,Renova Energy,0,,120,20,Sharp,ND-240QCJ,,Multi-c-Si,0.14722481,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.749637681
+22-05-2013,5.28,19129.56,7882,RES_SF,CA,92243,imperial irrigation district,,Unleash Solar,0,,282,19,"CSI Solar Co., Ltd.",CS6P-240P,,Multi-c-Si,0.15496019,KACO,blueplanet 5002xi [240v],5,,,3.623022727
+30-05-2013,12.426,65182,18542,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,270,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7000m [240v],7,,,5.245614035
+30-05-2013,6.12,27540,9918,RES_SF,CA,92211,imperial irrigation district,,Sunx Solar,0,,125,23,-1,-1,,-1,,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.5
+13-06-2013,7.848,41202,12607,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,240,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7000m [240v],7,,,5.25
+13-06-2013,5,26250,8034,RES_SF,CA,92201,imperial irrigation district,,Planet Solar,0,,177,14,Mage Solar,Powertec Plus 250/6 ML,,Mono-c-Si,0.15273751,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,5.25
+13-06-2013,15.696,80050,24759,RES_SF,CA,92270,imperial irrigation district,,Renova Energy,0,,180,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7000m [240v],7,,,5.100025484
+25-06-2013,3.5,12950,1559,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,180,23,Trina Solar,TSM-250PD05.05,,Multi-c-Si,0.15447785,ABB,pvi-3.0-outd-s-us-a [240v],3,,,3.7
+26-06-2013,10.08,46080,15075,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,86,19,SunPower,SPR-315NE-WHT-D,,Mono-c-Si,0.19316693,Fronius USA,ig plus v 10.0 [240v],10,,,4.571428571
+26-06-2013,6.37,32487,8988,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,90,4,Trina Solar,TSM-245PA05.18,,Multi-c-Si,0.15138829,SMA America,sb5000us [240v],5,,,5.1
+26-06-2013,3.38,22578,4987,RES_SF,CA,92253,imperial irrigation district,,Swan Solar,0,,100,19,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SunPower,spr-4000m [240v],4,,,6.679881657
+02-07-2013,5.92,45180,12180.42,RES_SF,CA,92201,imperial irrigation district,,Helio Power,0,,180,18,Mitsubishi Electric,PV-UD185MF5,,Multi-c-Si,0.13378923,SMA America,sb5000us [240v],5,,,7.631756757
+05-07-2013,12.8,57600,20184,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,178,18,SunPower,SPR-320E-WHT-D,,Mono-c-Si,0.19623306,Fronius USA,ig plus v 11.4 [240v],11.4,,,4.5
+23-07-2013,5,11040.31,5287,RES_SF,CA,92227,imperial irrigation district,,Self,0,,179,5,Helios USA,6T 250,,Mono-c-Si,0.15031265,SMA America,sb6000us [240v],6,,,2.208062
+24-07-2013,23.544,141264,29250,RES_SF,CA,92243,imperial irrigation district,,West Coast Solar Socal,0,,180,23,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr 11401f [240v],11.4,,,6
+25-07-2013,4.9,24990,7913,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,209,19,Trina Solar,TSM-245PA05.18,,Multi-c-Si,0.15138829,Power-One,pvi-6000-outd-us [240v],6,,,5.1
+25-07-2013,10.56,68640,15384,RES_SF,CA,92201,imperial irrigation district,,Desert Solar,0,,270,19,Sharp,ND-240QCJ,,Multi-c-Si,0.14722481,SMA America,sb5000us [240v],5,,,6.5
+25-07-2013,4.32,22032,6190,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,91,26,Trina Solar,TSM-240PA05,,Multi-c-Si,0.14829874,Power-One,pvi-3.6-outd-s-us [240v],3.6,,,5.1
+25-07-2013,19.62,106700,29250,RES_SF,CA,92253,imperial irrigation district,,Hot Purple Energy,0,,170,10,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr 11401f [240v],11.4,,,5.438328236
+30-07-2013,3.64,15215.2,1456,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,180,17,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+30-07-2013,5.98,22600,2513,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,180,15,"CSI Solar Co., Ltd.",CS6P-260M,,Mono-c-Si,0.16787353,SolarEdge Technologies Ltd.,se6000 [240v],5.99,,,3.779264214
+30-07-2013,3.5,14630,1457,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,181,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+31-07-2013,6.75,31050,10808,RES_SF,CA,92201,imperial irrigation district,,Hot Purple Energy,0,,225,19,Mage Solar USA,Powertec Plus 250/6 MNCS,,Mono-c-Si,0.15618557,SunPower,spr-6501f [240v],6.5,,,4.6
+31-07-2013,6.21,37500,10041,RES_SF,CA,92253,imperial irrigation district,,Hot Purple Energy,0,,180,19,SunPower,SPR-230NE-BLK-D,,Mono-c-Si,0.18487528,SunPower,spr-7501f [240v],7.5,,,6.038647343
+31-07-2013,19.947,100732,29250,RES_SF,CA,92201,imperial irrigation district,,Renova Energy,0,,271,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr 11401f [240v],11.4,,,5.049982454
+08-08-2013,15.86,73128,27312,RES_SF,CA,92236,imperial irrigation district,,Al Hernandez,0,,180,30,China Sunergy (Nanjing),CSUN260-60M,,Mono-c-Si,0.16013797,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.610844893
+08-08-2013,7.65,38134,10415,RES_SF,CA,92201,imperial irrigation district,,Mohr Power Solar,0,,181,11,AU Optronics,PM250MA0_255,,Mono-c-Si,0.15827332,AU Optronics,pm250ma0_255,0.225,,,4.984836601
+08-08-2013,10,41461,15707,RES_SF,CA,92201,imperial irrigation district,,United Solar Energy,0,,180,5,Centrosolar America,E250B,,Multi-c-Si,0.15517117,Fronius USA,ig plus a 6.0 [240v],6,,,4.1461
+08-08-2013,8.32,37752,14328,RES_SF,CA,92236,imperial irrigation district,,Al Hernandez,0,,180,30,China Sunergy (Nanjing),CSUN260-60M,,Mono-c-Si,0.16013797,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.5375
+08-08-2013,12,50717,18654,RES_SF,CA,92210,imperial irrigation district,,Desert Energy Solutions,0,,227,14,"CSI Solar Co., Ltd.",CS6P-250M,,Mono-c-Si,0.16141686,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.226416667
+13-08-2013,3.5,12950,1559,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,180,23,Trina Solar,TSM-250PD05.05,,Multi-c-Si,0.15447785,ABB,pvi-3.0-outd-s-us-a [240v],3,,,3.7
+13-08-2013,5.886,25898.4,2156,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,89,23,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-5000m [240v],5,,,4.4
+14-08-2013,13.734,73000,22920,RES_SF,CA,92241,imperial irrigation district,,Hot Purple Energy,0,,180,15,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-6501f [240v],6.5,,,5.315275957
+14-08-2013,14.715,77273,25005,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,180,15,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7000m [240v],7,,,5.251308189
+14-08-2013,14.715,76518,25424,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,180,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7000m [240v],7,,,5.2
+14-08-2013,15.9,78400,6520,RES_SF,CA,92253,imperial irrigation district,,Desert Solar,0,,180,10,Upsolar,UP-M265M-B,,Mono-c-Si,0.16288847,Altenergy Power System Inc.,yc500a [240v],0.5,,,4.93081761
+22-08-2013,18.639,95321,28614,RES_SF,CA,92247,imperial irrigation district,,Planet Solar,0,,190,13,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-6000-outd-us [240v],6,,,5.114061913
+22-08-2013,11.445,60086,17493,RES,CA,92203,imperial irrigation district,,Renova Energy,0,,180,0,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-10001f [240v],9.995,,,5.249978156
+22-08-2013,20.928,104652,35035,RES_MF,CA,92236,imperial irrigation district,,Renova Energy,0,,150,15,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus v 10.0 [240v],10,,,5.000573394
+22-08-2013,11.445,60039,18172,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,180,15,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-10001f [240v],9.995,,,5.24587156
+28-08-2013,3.64,15215.2,1508,RES_SF,CA,92250,imperial irrigation district,,Sungevity,0,,179,19,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+29-08-2013,10.976,57624,18726,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,180,15,SunPower,SPR-343J-WHT-D,,Mono-c-Si,0.21033731,Fronius USA,ig plus v 10.0 [240v],10,,,5.25
+29-08-2013,13.08,71560,19626,RES_SF,CA,92253,imperial irrigation district,,Sunpro Solar,0,,270,20,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-6000-outd-us [240v],6,,,5.470948012
+29-08-2013,9.156,47000,12394,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,270,14,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-3.6-outd-s-us [240v],3.6,,,5.133245959
+29-08-2013,18.76,90000,28974,RES_SF,CA,92253,imperial irrigation district,,Urban Energy,0,,152,22,Maxeon Solar Technologies Ltd.,SPR-X21-335-BLK,,Mono-c-Si,0.20552148,Power-One,pvi-6000-outd-us-a [240v],6,,,4.797441365
+29-08-2013,8.085,28997.8,14084,RES_SF,CA,92203,imperial irrigation district,,Sundogca,0,,180,25,"CSI Solar Co., Ltd.",CS6P-245M,,Mono-c-Si,0.15818852,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,3.586617192
+04-09-2013,7.848,41202,12864,RES_SF,CA,92201,imperial irrigation district,,Renova Energy,0,,180,14,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7000m [240v],7,,,5.25
+04-09-2013,8.82,44982,14813,RES_SF,CA,92211,imperial irrigation district,,Tesla,0,,152,22,Trina Solar,TSM-245PA05.18,,Multi-c-Si,0.15138829,Fronius USA,ig plus a 7.5 [240v],7.5,,,5.1
+04-09-2013,9.8,40500,15462,RES_SF,CA,92253,imperial irrigation district,,Lexcomm,0,,180,17,Mage Solar,Powertec Plus 245/6 PL,,Multi-c-Si,0.15089923,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.132653061
+04-09-2013,8.64,42336,12748,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,270,18,Trina Solar,TSM-240PA05,,Multi-c-Si,0.14829874,Power-One,pvi-3.0-outd-s-us [240v],3,,,4.9
+04-09-2013,11.772,63000,18068,RES_SF,CA,92253,imperial irrigation district,,Planet Solar,0,,180,15,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-6000-outd-us [240v],6,,,5.351681957
+10-09-2013,5.46,20424,2412,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,15,"CSI Solar Co., Ltd.",CS6P-260M,,Mono-c-Si,0.16787353,SolarEdge Technologies Ltd.,se5000 [240v],4.99,,,3.740659341
+10-09-2013,3.36,13238.4,1384,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,181,15,Motech Industries,IM60B2-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+11-09-2013,7.5,36000,12057,RES_SF,CA,92270,imperial irrigation district,,Tesla,0,,180,19,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,Fronius USA,ig plus a 7.5 [240v],7.5,,,4.8
+11-09-2013,5.88,28812,9371,RES_SF,CA,92241,imperial irrigation district,,Tesla,0,,188,18,Yingli Energy (China),YL245P-29b,,Multi-c-Si,0.1499847,SolarEdge Technologies Ltd.,se6000 [240v],5.99,,,4.9
+11-09-2013,5.76,29376,9443,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,197,22,Trina Solar,TSM-240PA05,,Multi-c-Si,0.14829874,SMA America,sb5000us [240v],5,,,5.1
+19-09-2013,10.83,45486,22191.4,RES,CA,92274,imperial irrigation district,,Sunvalley Solar,0,,180,18,Baoding Tianwei Solarfilms,TWSF-aSi-95W-1,,Thin Film,0.066433564,PV Powered,pvp4800,4.8,,,4.2
+19-09-2013,3.6,18360,5987,RES_SF,CA,92211,imperial irrigation district,,Tesla,0,,212,23,Trina Solar,TSM-240PA05,,Multi-c-Si,0.14829874,Power-One,pvi-3.0-outd-s-us [240v],3,,,5.1
+19-09-2013,15.68,79968,23092,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,30,18,Trina Solar,TSM-245PA05.18,,Multi-c-Si,0.15138829,Power-One,pvi-6000-outd-us [240v],6,,,5.1
+19-09-2013,8.28,55000,13145,RES_SF,CA,92203,imperial irrigation district,,Socal Solar Energy,0,,181,14,American Solar Wholesale,ASW-230P,,Multi-c-Si,0.14080197,SMA America,sb8000us [240v],7.6,,,6.642512077
+02-10-2013,3.5,12950,1343,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,90,18,Trina Solar,TSM-250PD05.05,,Multi-c-Si,0.15447785,ABB,pvi-3.0-outd-s-us-a [240v],3,,,3.7
+02-10-2013,5.28,20803.2,1944,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,269,15,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-5000-outd-us [240v],5,,,3.94
+03-10-2013,6.867,38000,10212,RES_SF,CA,92236,imperial irrigation district,,Burke Electric,0,,270,18,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,Power-One,pvi-6000-outd-us [240v],6,,,5.533711956
+03-10-2013,4.86,21870,8177,RES_SF,CA,92210,imperial irrigation district,,Sunx Solar,0,,202,22,-1,-1,,-1,,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.5
+09-10-2013,10,49200,16545,RES_SF,CA,92253,imperial irrigation district,,Planet Solar,0,,180,16,Mage Solar USA,Powertec Plus 250/6 MNBS,,Mono-c-Si,0.15329449,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.92
+09-10-2013,9.6,45000,15549,RES_SF,CA,92201,imperial irrigation district,,Lexcomm,0,,185,13,Mage Solar USA,Powertec Plus 240/6 PL,,Multi-c-Si,0.146628,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.6875
+09-10-2013,7.65,28574.41,12075,RES_SF,CA,92270,imperial irrigation district,,Aaa Solar Source,0,,270,15,-1,-1,,-1,,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,3.735216993
+16-10-2013,6.867,30214,2846,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,180,23,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-6000-outd-us-a [240v],6,,,4.399883501
+17-10-2013,6.76,29163,11229,RES,CA,92201,imperial irrigation district,,Driven Electric,0,,163,18,LG Electronics Inc.,LG260S1K-G3,,Mono-c-Si,0.1600792,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.314053254
+17-10-2013,17.15,83755,25992,RES_SF,CA,92253,imperial irrigation district,,Verengo,0,,180,0,Yingli Energy (China),YL245P-29b,,Multi-c-Si,0.1499847,Power-One,pvi-5000-outd-us [240v],5,,,4.883673469
+17-10-2013,17.15,85750,24068,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,192,18,Trina Solar,TSM-245PA05.18,,Multi-c-Si,0.15138829,Fronius USA,ig plus v 10.0 [240v],10,,,5
+24-10-2013,5.28,20803.2,1944,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,269,15,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-5000-outd-us [240v],5,,,3.94
+24-10-2013,7.175,32788,11661,RES_SF,CA,92227,imperial irrigation district,,Aaa Solar Source,0,,163,14,Westinghouse Solar,WLW-235-1-AC2-D-B,,Multi-c-Si,0.14512086,Enphase Energy Inc.,m190-72-240-sxx (-na),0.19,,,4.569756098
+24-10-2013,8.175,30607,3581,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,30,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-4.2-outd-s-us-a [240v],4.2,,,3.743975535
+30-10-2013,5.886,27369,2610,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,179,16,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SMA America,sb6000tl-us-22 [240v],6,,,4.649847095
+31-10-2013,6.867,35365,11166,RES_SF,CA,92211,imperial irrigation district,,Renova Energy,0,,200,19,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SMA America,sb6000us [240v],6,,,5.149992719
+31-10-2013,35,115604.51,56696,RES_MF,CA,92201,imperial irrigation district,,Tiger Electric,0,,180,10,Renesola America,JC250M-24/Bx-b,,Multi-c-Si,0.15366837,Renesola Zhejiang,replus-250a,0.22,,,3.302986
+06-11-2013,5.886,23249,2593,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,15,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SMA America,sb6000tl-us-22 [240v],6,,,3.949881074
+07-11-2013,10.464,52320,16737,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,180,21,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SunPower,spr-10001f [240v],9.995,,,5
+07-11-2013,9.88,45000,15618,RES_SF,CA,92203,imperial irrigation district,,Lexcomm,0,,165,18,-1,-1,,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,,,4.55465587
+07-11-2013,3.92,19208,5572,RES_SF,CA,92241,imperial irrigation district,,Tesla,0,,180,12,Yingli Energy (China),YL245P-29b,,Multi-c-Si,0.1499847,Power-One,pvi-3.0-outd-s-us [240v],3,,,4.9
+07-11-2013,8.25,30486,13157,RES_SF,CA,92253,imperial irrigation district,,Sundogca,0,,225,18,"CSI Solar Co., Ltd.",CS6P-250P,,Multi-c-Si,0.16141686,SMA America,sb7000us [240v],7,,,3.695272727
+14-11-2013,8.775,33725,13335,RES_SF,CA,92253,imperial irrigation district,,Desert Power,0,,180,5,Scheuten Solar USA,P6-60U-225W,,Multi-c-Si,0.1392569,SMA America,sb8000us [240v],7.6,,,3.843304843
+15-11-2013,3.5,12950,1343,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,90,18,Trina Solar,TSM-250PD05.05,,Multi-c-Si,0.15447785,ABB,pvi-3.0-outd-s-us-a [240v],3,,,3.7
+26-11-2013,3.27,16350,4921,RES_SF,CA,92211,imperial irrigation district,,Renova Energy,0,,90,22,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,Power-One,pvi-3.0-outd-s-us [240v],3,,,5
+26-11-2013,12,50000,20015,RES_SF,CA,92201,imperial irrigation district,,Planet Solar,0,,182,18,Mage Solar USA,Powertec Plus 250/6 MNBS,,Mono-c-Si,0.15329449,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.166666667
+26-11-2013,7.848,48023,13304,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,180,14,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SunPower,spr-7000m [240v],7,,,6.119138634
+05-12-2013,11.27,55223,18535,RES_MF,CA,92253,imperial irrigation district,,Tesla,0,,188,18,"CSI Solar Co., Ltd.",CS6P-245P,,Multi-c-Si,0.15818852,SMA America,sb7000us [240v],7,,,4.9
+05-12-2013,10.464,51274,17732,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,180,15,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SunPower,spr-10001f [240v],9.995,,,4.900038226
+05-12-2013,10.05,53768,16784,RES_SF,CA,92253,imperial irrigation district,,Hot Purple Energy,0,,160,18,Maxeon Solar Technologies Ltd.,SPR-X21-335-BLK,,Mono-c-Si,0.20552148,SunPower,spr-10001f [240v],9.995,,,5.350049751
+11-12-2013,18.105,85274.55,26252,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,181,15,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-5000-outd-us-a [240v],5,,,4.71
+11-12-2013,11.445,57225,18125,RES_SF,CA,92201,imperial irrigation district,,Renova Energy,0,,180,14,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SunPower,spr-10001f [240v],9.995,,,5
+11-12-2013,7.35,27050,12601,RES_SF,CA,92253,imperial irrigation district,,Verengo,0,,180,20,Yingli Energy (China),YL245P-29b,,Multi-c-Si,0.1499847,Power-One,pvi-6000-outd-us [240v],6,,,3.680272109
+12-12-2013,11.772,62392.2,18278,RES_SF,CA,92253,imperial irrigation district,,Planet Solar,0,,270,15,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7501f [240v],7.5,,,5.300050968
+12-12-2013,6.9,34355,3081,RES_SF,CA,92203,imperial irrigation district,,Paramount Energy,0,,180,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SMA America,sb6000tl-us-22 [240v],6,,,4.978985507
+19-12-2013,10,55000,16462,RES_SF,CA,92253,imperial irrigation district,,Planet Solar,0,,180,18,Mage Solar USA,Powertec Plus 250/6 MNS,,Mono-c-Si,0.15329449,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,5.5
+09-01-2014,7,34214.07,11717,RES_SF,CA,92253,imperial irrigation district,,Helio Power,0,,180,15,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-M250MG,,Multi-c-Si,0.15460396,SolarEdge Technologies Ltd.,se6000 [240v],5.99,,,4.887724286
+09-01-2014,17.5,83125,27685,RES_SF,CA,92270,imperial irrigation district,,Planet Solar,0,,180,15,Mage Solar USA,Powertec Plus 250/6 MNS,,Mono-c-Si,0.15329449,Enphase Energy Inc.,m215-60-2ll-s2x-na,0.215,,,4.75
+09-01-2014,9.156,49500,15685,RES_SF,CA,92203,imperial irrigation district,,Planet Solar,0,,204,18,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-6000-outd-us [240v],6,,,5.406290957
+13-01-2014,4.32,17020.8,1773,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,14,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-3.6-outd-s-us [240v],3.6,,,3.94
+13-01-2014,3.36,13238.4,1220,RES_SF,CA,92281,imperial irrigation district,,Sungevity,0,,270,19,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+13-01-2014,3.57,14065.8,1372,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,89,18,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+13-01-2014,5.28,20803.2,1944,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,269,15,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-5000-outd-us [240v],5,,,3.94
+13-01-2014,3.36,13238.4,1331,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,181,14,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+13-01-2014,3.36,13238.4,1227,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,91,19,Motech Industries,IM60B2-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+15-01-2014,19.947,88756,29250,RES_SF,CA,92201,imperial irrigation district,,Planet Solar,0,,210,18,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-6000-outd-us [240v],6,,,4.449591417
+28-01-2014,3.57,14065.8,1342,RES_SF,CA,92274,imperial irrigation district,,Sungevity,0,,270,13,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+28-01-2014,3.36,13238.4,1172,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,269,18,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-3.0-outd-s-us [240v],3,,,3.94
+28-01-2014,5.355,21098.7,1964,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,269,13,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-5000-outd-us-a [240v],5,,,3.94
+28-01-2014,5.28,20803.2,2068,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,19,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-5000-outd-us [240v],5,,,3.94
+28-01-2014,3.36,13238.4,1384,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,181,15,Motech Industries,IM60B2-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+05-02-2014,6.84,34200,12331,RES_SF,CA,92253,imperial irrigation district,,Lexcomm,0,,180,18,Schuco USA,MPE 190 MS 05,,Mono-c-Si,0.1533881,Yaskawa Solectria Solar,pvi 6500-240 [240v],6.45,,,5
+05-02-2014,10.07,45000,14255,RES_SF,CA,92203,imperial irrigation district,,Lexcomm,0,,255,18,-1,-1,,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,,,4.468718967
+05-02-2014,23.52,115248,29250,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,256,8,Yingli Energy (China),YL245P-29b,,Multi-c-Si,0.1499847,Fronius USA,ig plus v 10.0-3 delta [240v],9.995,,,4.9
+12-02-2014,6.84,35835,2965,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,219,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SMA America,sb6000tl-us-22 [240v],6,,,5.239035088
+12-02-2014,6.3,44000,15017.18,RES_SF,CA,92201,imperial irrigation district,,Heggie Electric,0,,180,18,Suntech Power,STP175S-24/Ab-1 Black,,Mono-c-Si,0.13707858,SMA America,sb6000us-11 [240v],6,,,6.984126984
+05-03-2014,11.445,54936,16082,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,225,14,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SunPower,spr-10001f [240v],9.995,,,4.8
+24-03-2014,7.5,36000,12057,RES_SF,CA,92270,imperial irrigation district,,Tesla,0,,180,19,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,Fronius USA,ig plus a 7.5 [240v],7.5,,,4.8
+26-03-2014,9.5,40750,15522,RES_SF,CA,92201,imperial irrigation district,,Planet Solar,0,,180,15,Mage Solar,POWERTEC Plus 250 / 6 MN US,,Mono-c-Si,0.15329449,Enphase Energy Inc.,m215-60-2ll-s2x-na,0.215,,,4.289473684
+13-05-2014,3.57,16814.7,1545,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,179,15,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.71
+13-05-2014,3.57,14065.8,1376,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,91,19,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+15-05-2014,16.25,79625,5909,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,296,18,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,Fronius USA,ig plus v 11.4 [240v],11.4,,,4.9
+21-05-2014,9.12,34959,3688,RES_SF,CA,92243,imperial irrigation district,,Booth Construction,0,,270,18,Trina Solar,TSM-240PA05.08,,Multi-c-Si,0.14829874,Power-One,pvi-4.2-outd-s-us-a [240v],4.2,,,3.833223684
+28-05-2014,3.64,15215.2,1369,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,270,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+28-05-2014,3.5,14630,1545,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,184,22,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+28-05-2014,3.5,14630,1266,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,270,21,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+28-05-2014,3.5,14630,1312,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,268,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+28-05-2014,3.5,14630,1420,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+28-05-2014,3.57,14922.6,1299,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,270,18,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+30-05-2014,3.64,15215.2,1441,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,178,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+30-05-2014,3.64,15215.2,1531,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,179,14,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+30-05-2014,3.57,14922.6,1210,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,272,12,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+30-05-2014,3.64,15215.2,796,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,20,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+04-06-2014,6,19600,2542,RES_SF,CA,92203,imperial irrigation district,,32 Degrees Solar,0,,178,14,AXITEC,AC-250P/156-60S,,Multi-c-Si,0.15404409,SolarEdge Technologies Ltd.,se6000 [240v],5.99,,,3.266666667
+05-06-2014,11,52800,4348,RES_SF,CA,92236,imperial irrigation district,,Tesla,0,,90,23,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,SolarEdge Technologies Ltd.,se5000 [240v],4.99,,,4.8
+05-06-2014,5,24000,2121,RES_SF,CA,92236,imperial irrigation district,,Tesla,0,,180,18,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,Power-One,pvi-4.2-outd-s-us [240v],4.2,,,4.8
+05-06-2014,10.8,49140,4528,RES_SF,CA,92201,imperial irrigation district,,Lexcomm,0,,185,13,-1,-1,,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,,,4.55
+05-06-2014,3.57,14922.6,1395,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,91,14,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+11-06-2014,8.71,41000,3537,RES_SF,CA,92201,imperial irrigation district,,Revco Solar,0,,270,19,SunPower,SPR-X21-335,,Mono-c-Si,0.20543149,Fronius USA,ig plus v 3.8 [240v],3.8,,,4.707233065
+12-06-2014,3.5,16485,1414,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,270,19,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.71
+12-06-2014,3.5,14630,1426,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,181,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+12-06-2014,3.64,15215.2,1353,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,270,19,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+12-06-2014,3.64,14630,1588,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,21,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.019230769
+12-06-2014,3.5,14630,1342,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,270,14,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+12-06-2014,3.38,14128.4,1348,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,178,19,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+12-06-2014,3.5,14630,1404,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,126,21,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+12-06-2014,3.64,15215.2,1361,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,270,17,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us [240v],3,,,4.18
+18-06-2014,3.5,14630,1239,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,269,19,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us [240v],3,,,4.18
+18-06-2014,3.64,15215.2,1476,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,271,17,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+18-06-2014,3.64,15215.2,1540,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,15,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+18-06-2014,3.64,15215.2,1445,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,179,17,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+18-06-2014,3.57,14922.6,1273,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,269,17,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+18-06-2014,3.64,15215.2,1343,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,270,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+19-06-2014,8.5,40800,3277,RES_SF,CA,92236,imperial irrigation district,,Rgs Energy,0,,90,23,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,Power-One,pvi-3.6-outd-s-us [240v],3.6,,,4.8
+19-06-2014,3.64,15215.2,1343,RES_SF,CA,92233,imperial irrigation district,,Sungevity,0,,270,19,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+19-06-2014,3.64,15215.2,1564,RES_SF,CA,92274,imperial irrigation district,,Sungevity,0,,180,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+19-06-2014,3.64,15215.2,1357,RES_SF,CA,92274,imperial irrigation district,,Sungevity,0,,231,15,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+19-06-2014,3.64,15215.2,1564,RES_SF,CA,92233,imperial irrigation district,,Sungevity,0,,181,22,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+19-06-2014,9.156,42575,4116,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,180,23,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SMA America,sb8000us-12 [240v],7.6,,,4.649956313
+25-06-2014,3.64,15215.2,1420,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,179,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+25-06-2014,3.64,15215.2,1403,RES_SF,CA,92250,imperial irrigation district,,Sungevity,0,,180,11,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+25-06-2014,3.5,14630,1507,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,20,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+25-06-2014,3.5,14630,1392,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+25-06-2014,3.5,14630,1448,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,25,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+25-06-2014,3.64,15215.2,1481,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,181,14,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+26-06-2014,3.75,18000,1623,RES_SF,CA,92236,imperial irrigation district,,Tesla,0,,176,18,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,Power-One,pvi-3.0-outd-s-us [240v],3,,,4.8
+30-06-2014,3.64,15215.2,1492,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,179,16,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+30-06-2014,3.36,14630,1245,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,95,19,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-3.0-outd-s-us [240v],3,,,4.354166667
+30-06-2014,3.5,14630,1508,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,181,15,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+30-06-2014,3.64,16814.7,1522,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,178,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.619423077
+30-06-2014,3.64,15215.2,1473,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,120,14,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+30-06-2014,3.64,15215.2,1551,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,179,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+30-06-2014,3.64,15215.2,1563,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,185,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+10-07-2014,3.5,14630,1420,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us [240v],3,,,4.18
+10-07-2014,3.5,14630,1277,RES_SF,CA,92250,imperial irrigation district,,Sungevity,0,,89,14,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+10-07-2014,3.64,14630,1530,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,24,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.019230769
+10-07-2014,3.38,14128.4,1340,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,17,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+10-07-2014,3.64,15215.2,1607,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,26,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+10-07-2014,3.64,15215.2,1508,RES_SF,CA,92250,imperial irrigation district,,Sungevity,0,,179,19,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+10-07-2014,3.57,14922.6,1554,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,180,16,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+10-07-2014,3.57,14922.6,1480,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,175,18,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-us [240v],3,,,4.18
+16-07-2014,3.64,15215.2,1546,RES_SF,CA,92233,imperial irrigation district,,Sungevity,0,,181,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+16-07-2014,3.64,15215.2,1456,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,180,17,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+16-07-2014,3.36,13238.4,1201,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,271,16,Motech Industries,IM60D3-240-wxxyzz,,Multi-c-Si,0.14662756,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+16-07-2014,3.57,14922.6,1368,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,271,16,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+16-07-2014,3.64,15215.2,1531,RES_SF,CA,92233,imperial irrigation district,,Sungevity,0,,181,14,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+16-07-2014,3.64,15215.2,1500,RES_SF,CA,92274,imperial irrigation district,,Sungevity,0,,133,22,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+22-07-2014,3.315,13856.7,1263,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,268,19,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+22-07-2014,13.08,61730,5545,RES_SF,CA,92201,imperial irrigation district,,Hot Purple Energy,0,,180,10,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7501f [240v],7.5,,,4.71941896
+22-07-2014,3.64,15215.2,1542,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,173,16,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+22-07-2014,3.64,15215.2,1577,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,20,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+22-07-2014,3.64,15215.2,1420,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,14,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+22-07-2014,3.5,14630,1323,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,270,22,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+22-07-2014,3.57,14630,1547,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,181,15,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.098039216
+29-07-2014,3.64,15215.2,1538,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,180,17,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+29-07-2014,8.16,33272,3492,RES_SF,CA,92203,imperial irrigation district,,Southern California Energy Alternatives,0,,170,18,Suniva,MVX255-60-5-701,,Multi-c-Si,0.15674174,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,4.07745098
+29-07-2014,3.64,15215.2,1492,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,180,23,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+29-07-2014,3.64,15825.6,1451,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,179,26,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.347692308
+05-08-2014,6.867,32206,3034,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,180,19,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SMA America,sb6000us-12 [240v],6,,,4.689966506
+05-08-2014,7.848,40103,3290,RES_SF,CA,92203,imperial irrigation district,,Revco Solar,0,,122,19,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SunPower,spr-7000m [240v],7,,,5.109964322
+06-08-2014,6.615,27650.7,2466,RES_SF,CA,92270,imperial irrigation district,,Sungevity,0,,267,20,ET Solar Industry,ET-P660245BB,,Multi-c-Si,0.15206775,Power-One,pvi-6000-outd-us-a [240v],6,,,4.18
+06-08-2014,12.426,63009,4785,RES_SF,CA,92203,imperial irrigation district,,Revco Solar,0,,267,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-6501f [240v],6.5,,,5.070738774
+06-08-2014,11.118,55590,4516,RES_SF,CA,92203,imperial irrigation district,,Revco Solar,0,,246,19,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SunPower,spr-7501f [240v],7.5,,,5
+07-08-2014,3.5,14630,1466,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,180,22,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+07-08-2014,4.335,18120.3,1652,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,261,18,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.8-outd-s-us-a [240v],3.8,,,4.18
+07-08-2014,3.5,14630,1341,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,90,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us [240v],3,,,4.18
+07-08-2014,3.57,14922.6,1546,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,180,18,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+07-08-2014,3.64,15215.2,1210,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,268,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+07-08-2014,3.64,15215.2,1369,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,90,20,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+07-08-2014,3.64,15215.2,1511,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,180,23,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+07-08-2014,3.5,14630,1315,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,270,19,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+07-08-2014,4.75,19855,1930,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,175,14,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-4.2-outd-s-us-a [240v],4.2,,,4.18
+13-08-2014,3.64,15215.2,1236,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,269,19,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+13-08-2014,3.64,15215.2,1546,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,180,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+13-08-2014,3.5,14630,1521,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,181,17,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+13-08-2014,3.57,14922.6,1423,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,269,18,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+13-08-2014,3.64,15215.2,1366,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,89,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+13-08-2014,6,25080,2565,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,180,15,ET Solar Industry,ET-P660250BB,,Multi-c-Si,0.15517117,Power-One,pvi-6000-outd-us-a [240v],6,,,4.18
+14-08-2014,3.57,14922.6,1273,RES_SF,CA,92231,imperial irrigation district,,Rgs Energy,0,,269,17,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+14-08-2014,8.175,31382.5,3271,RES_SF,CA,92233,imperial irrigation district,,Rgs Energy,0,,180,18,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-4.2-outd-s-us-a [240v],4.2,,,3.83883792
+14-08-2014,12.22,37031,5073,RES_SF,CA,92253,imperial irrigation district,,Driven Electric,0,,202,13,"Phono Solar Technology Co., Ltd.",PS260M-20/U,,Mono-c-Si,0.1595092,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,3.030360065
+19-08-2014,3.64,14341.6,1518,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,21,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb4000tl-us-22 [240v],4.05,,,3.94
+19-08-2014,3.57,14922.6,1324,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,270,21,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+19-08-2014,3.5,13790,1344,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,269,18,Motech Industries,IM60D3-250-wxxyzz,,Multi-c-Si,0.15273705,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+19-08-2014,6.5,27170,2859,RES_SF,CA,92250,imperial irrigation district,,Sungevity,0,,179,24,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb5000tl-us-22 [240v],5.05,,,4.18
+20-08-2014,6.867,34335,2904,RES_SF,CA,92253,imperial irrigation district,,Hot Purple Energy,0,,180,10,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus a 7.5 [240v],7.5,,,5
+20-08-2014,9.945,24950,4180,RES_SF,CA,92253,imperial irrigation district,,Argent Solar Electric,0,,193,18,Renesola America,JC255M-24/Bxh,,Multi-c-Si,0.15674174,SMA America,sb8000us-12 [240v],7.6,,,2.508798391
+26-08-2014,3.64,15215.2,1354,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,271,19,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+26-08-2014,11.445,53219,4547,RES_SF,CA,92253,imperial irrigation district,,Renova Energy,0,,100,15,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,Fronius USA,ig plus a 10.0 [240v],10,,,4.649978156
+26-08-2014,3.64,15215.2,1550,RES_SF,CA,92273,imperial irrigation district,,Sungevity,0,,180,17,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+26-08-2014,3.57,14922.6,1572,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,177,19,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+26-08-2014,3.5,13790,1507,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,179,19,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-M250MG(BK),,Multi-c-Si,0.15460396,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+26-08-2014,3.5,14630,1333,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,89,14,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+26-08-2014,3.57,14922.6,1515,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,181,19,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+28-08-2014,5.1,13000,1889,RES_SF,CA,92253,imperial irrigation district,,Md Energy,0,,270,15,EcoSolargy,ECO255S156P-60,,Multi-c-Si,0.15802194,Fronius USA,ig plus a 5.0 [240v],5,,,2.549019608
+03-09-2014,3.43,13514.2,1404,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+03-09-2014,3.43,13514.2,1502,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,178,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+04-09-2014,6.54,34662,2525,RES_SF,CA,92253,imperial irrigation district,,Revco Solar,0,,90,19,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,Fronius USA,ig plus a 3.0 [240v],3,,,5.3
+10-09-2014,9.81,45780,4334,RES_SF,CA,92201,imperial irrigation district,,Revco Solar,0,,180,19,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SunPower,spr-10001f [240v],9.995,,,4.666666667
+10-09-2014,11.772,56859,4927,RES_SF,CA,92253,imperial irrigation district,,Revco Solar,0,,180,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SMA America,sb6000us-12 [240v],6,,,4.830020387
+10-09-2014,11.445,61959,4811,RES_SF,CA,92211,imperial irrigation district,,Revco Solar,0,,230,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus a 10.0 [240v],10,,,5.413630406
+10-09-2014,14.388,66500,5623,RES_SF,CA,92253,imperial irrigation district,,Revco Solar,0,,180,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus a 6.0 [240v],6,,,4.621907145
+11-09-2014,3.64,15215.2,1468,RES_SF,CA,92274,imperial irrigation district,,Sungevity,0,,237,15,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+11-09-2014,5.865,24515.7,2301,RES_SF,CA,92274,imperial irrigation district,,Sungevity,0,,239,13,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-5000-outd-us-a [240v],5,,,4.18
+11-09-2014,3.5,14630,1497,RES,CA,92275,imperial irrigation district,,Sungevity,0,,195,17,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+11-09-2014,3.64,15215.2,1289,RES_SF,CA,92250,imperial irrigation district,,Sungevity,0,,180,27,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+17-09-2014,3.43,13514.2,1255,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,267,12,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+17-09-2014,3.43,13514.2,1500,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+17-09-2014,6.12,17073,2631,RES_SF,CA,92227,imperial irrigation district,,Alesa Electric,0,,180,30,"CSI Solar Co., Ltd.",CS6P-255P,,Multi-c-Si,0.1646452,SMA America,sb6000us [240v],6,,,2.789705882
+17-09-2014,3.64,14341.6,1525,RES_SF,CA,92281,imperial irrigation district,,Sungevity,0,,178,12,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+18-09-2014,15.696,80050,24759,RES_SF,CA,92270,imperial irrigation district,,Renova Energy,0,,180,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-7000m [240v],7,,,5.100025484
+18-09-2014,9,43200,3254,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,292,20,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,Power-One,pvi-3.6-outd-s-us-a [240v],3.6,,,4.8
+24-09-2014,3.57,14922.6,1569,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,171,19,Motech Industries,IM60D3-255-wxxyzz,,Multi-c-Si,0.15579179,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+24-09-2014,3.43,13514.2,1492,RES_SF,CA,92250,imperial irrigation district,,Sungevity,0,,180,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3800tl-us-22 [240v],3.85,,,3.94
+24-09-2014,3.43,13514.2,1326,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,91,15,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+24-09-2014,3.43,13514.2,1317,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,270,16,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+24-09-2014,7.245,36225,3185,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,180,14,SunPower,SPR-X21-345,,Mono-c-Si,0.21156377,SunPower,spr-6501f [240v],6.5,,,5
+01-10-2014,3.43,13514.2,1301,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,271,19,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+01-10-2014,3.43,13514.2,1455,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,180,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+01-10-2014,3.924,19910,1666,RES_SF,CA,92243,imperial irrigation district,,Semper Solaris,0,,180,18,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,SMA America,sb3800tl-us-22 [240v],3.85,,,5.073904179
+01-10-2014,3.43,13514.2,1480,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,179,20,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+01-10-2014,3.43,13514.2,1505,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,179,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+01-10-2014,3.185,12548.9,1275,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,180,14,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,ABB,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+02-10-2014,9.156,45139,3534,RES_SF,CA,92201,imperial irrigation district,,Revco Solar,0,,90,19,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,Fronius USA,ig plus a 3.8 [240v],3.8,,,4.929991263
+02-10-2014,14.388,76055,5631,RES_SF,CA,92201,imperial irrigation district,,Revco Solar,0,,180,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-6501f [240v],6.5,,,5.286002224
+08-10-2014,3.64,15215.2,1544,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+08-10-2014,3.64,15215.2,1361,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,270,14,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+08-10-2014,3.5,13790,1306,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,269,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+08-10-2014,3.5,16485,1532,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,181,19,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.71
+08-10-2014,3.5,14630,1457,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,181,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+08-10-2014,3.5,14630,1496,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,18,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+14-10-2014,9.156,47380,3937,RES_SF,CA,92211,imperial irrigation district,,Revco Solar,0,,216,19,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus a 5.0 [240v],5,,,5.174748799
+15-10-2014,3.43,13514.2,1404,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,19,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+15-10-2014,3.43,13514.2,1501,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,19,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+15-10-2014,3.43,13514.2,1305,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,270,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+15-10-2014,2.86,11268.4,1029,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,271,18,Suniva,OPT260-60-4-1B0,,Mono-c-Si,0.16495997,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+15-10-2014,3.43,13514.2,1299,RES_SF,CA,92273,imperial irrigation district,,Sungevity,0,,269,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+16-10-2014,8.71,50041,3682,RES_SF,CA,92203,imperial irrigation district,,Revco Solar,0,,90,19,Maxeon Solar Technologies Ltd.,SPR-X21-335-BLK,,Mono-c-Si,0.20552148,Fronius USA,ig plus a 3.8 [240v],3.8,,,5.745235362
+21-10-2014,9,39275.52,3936,RES_SF,CA,92203,imperial irrigation district,,Sos Energy,0,,180,18,AXITEC,AC-300P/156-72S,,Multi-c-Si,0.15492795,SMA America,sb5000tl-us-22 [240v],5.05,,,4.363946667
+21-10-2014,9.625,34224,4092,RES_SF,CA,92253,imperial irrigation district,,Tiger Electric,0,,180,15,-1,-1,,-1,,ABB,pvi-5000-outd-us [240v],5,,,3.55574026
+29-10-2014,3.5,14630,1382,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,180,12,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,Power-One,pvi-3.0-outd-s-us-a [240v],3,,,4.18
+29-10-2014,3.43,13514.2,1305,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,271,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+29-10-2014,3.5,13790,1347,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,270,14,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+30-10-2014,11.34,31580,4588,RES_SF,CA,92201,imperial irrigation district,,Solar Distributors,0,,160,12,-1,-1,,-1,,SunPower,spr-5000m [240v],5,,,2.784832451
+30-10-2014,5,25500,1876,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,270,18,Trina Solar,TSM-250PA05.18,,Multi-c-Si,0.15447785,Power-One,pvi-5000-outd-us [240v],5,,,5.1
+04-11-2014,15.81,80631,5851,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,24,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,SolarEdge Technologies Ltd.,se6000 [240v],5.99,,,5.1
+05-11-2014,3.43,13514.2,1415,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,181,11,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+05-11-2014,3.43,13514.2,1314,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,269,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+05-11-2014,3.43,13514.2,1516,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,20,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+05-11-2014,3.43,13514.2,1387,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,179,19,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+05-11-2014,3.43,13514.2,1198,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,270,20,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+05-11-2014,3.43,13514.2,1310,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,270,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+05-11-2014,3.43,13514.2,1267,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,271,14,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+05-11-2014,3.43,13514.2,1516,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,20,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+13-11-2014,11.22,57222,4381,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,180,18,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,Power-One,pvi-4.2-outd-s-us [240v],4.2,,,5.1
+13-11-2014,3.64,11741,1587,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,180,18,LG Electronics Inc.,LG260S1C-G3,,Mono-c-Si,0.16376922,SMA America,sb3000tl-us-22 [240v],3.05,,,3.225549451
+13-11-2014,9.69,49419,3843,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,90,10,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,SolarEdge Technologies Ltd.,se3800 [240v],3.79,,,5.1
+13-11-2014,3,11820,1320,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,19,Motech Industries,IM60B3-250-wxxyzz,,Multi-c-Si,0.15273705,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+19-11-2014,13.68,45500,6056,RES_SF,CA,92210,imperial irrigation district,,Planet Solar,0,,180,15,"CSI Solar Co., Ltd.",CS6X-285P,,Multi-c-Si,0.1539019,ABB,pvi-10.0-i-outd-x-us-208-y,10,,,3.326023392
+20-11-2014,9,31870,3732,RES_SF,CA,92203,imperial irrigation district,,Petersendean,0,,176,15,American Solar Wholesale,ASW-250P,,Multi-c-Si,0.12923503,Enphase Energy Inc.,m215-60-2ll-s2x-ig,0.215,,,3.541111111
+03-12-2014,11.25,41063,4757,RES_SF,CA,92276,imperial irrigation district,,Solarmax,0,,190,15,SMX Capital,SMX250P,,Multi-c-Si,0.15397881,SMA America,sb5000tl-us-22 [240v],5.05,,,3.650044444
+03-12-2014,2.5,9850,970,RES_SF,CA,92253,imperial irrigation district,,Sungevity,0,,90,14,Trina Solar,TSM-250PA05.05,,Multi-c-Si,0.15447785,ABB,pvi-3.0-outd-s-us-a [240v],3,,,3.94
+03-12-2014,9.5,29126.92,3708,RES_SF,CA,92253,imperial irrigation district,,Helio Power,0,,180,15,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-M250MG,,Multi-c-Si,0.15460396,SolarEdge Technologies Ltd.,se3800 [240v],3.79,,,3.065991579
+04-12-2014,15.3,78030,5962,RES_SF,CA,92211,imperial irrigation district,,Tesla,0,,265,22,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,SolarEdge Technologies Ltd.,se6000 [240v],5.99,,,5.1
+04-12-2014,8.67,44217,3359,RES_SF,CA,92211,imperial irrigation district,,Revco Solar,0,,258,22,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,Power-One,pvi-3.6-outd-s-us [240v],3.6,,,5.1
+04-12-2014,12.426,64251,5291,RES_SF,CA,92247,imperial irrigation district,,Revco Solar,0,,165,9,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus a 10.0 [240v],10,,,5.170690488
+09-12-2014,6.76,22096.21,2655,RES_SF,CA,92251,imperial irrigation district,,Yuma Solar,0,,180,5,REC Solar,REC260PE2,,Multi-c-Si,0.16394684,SMA America,sb6000us [240v],6,,,3.268670118
+09-12-2014,3.43,13514.2,1497,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,181,17,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+10-12-2014,11.22,57222,3894,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,23,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,SolarEdge Technologies Ltd.,se3000 [240v],3.01,,,5.1
+10-12-2014,5.5,17021.58,2438,RES_SF,CA,92253,imperial irrigation district,,Sundogca,0,,180,30,-1,-1,,-1,,Enphase Energy Inc.,m215-60-2ll-s2x,0.215,,,3.094832727
+12-12-2014,9.9,42075,4210,RES_SF,CA,92243,imperial irrigation district,,Green Solar Technologies,0,,180,30,SolarWorld Industries GmbH,Sunmodule Protect SW 275 mono black,,Mono-c-Si,0.16401508,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,,,4.25
+17-12-2014,9.81,45720,3765,RES_SF,CA,92211,imperial irrigation district,,Revco Solar,0,,270,18,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus a 5.0 [240v],5,,,4.660550459
+17-12-2014,6.21,31661,2311,RES_SF,CA,92201,imperial irrigation district,,Revco Solar,0,,180,19,-1,-1,,-1,,SolarEdge Technologies Ltd.,se5000 [240v],4.99,,,5.098389694
+22-12-2014,4.59,23409,2016,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,179,20,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,ABB,pvi-3.6-outd-s-us-z-a [240v],3.6,,,5.1
+22-12-2014,8.67,44217,3490,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,169,18,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,Power-One,pvi-5000-outd-us-a [240v],5,,,5.1
+22-12-2014,15.25,50500,5622,RES_SF,CA,92253,imperial irrigation district,,Verengo,0,,270,14,"HYUNDAI ENERGY SOLUTIONS CO., LTD.",HiS-M250MG,,Multi-c-Si,0.15460396,Enphase Energy Inc.,m215-60-2ll-s2x-ig,0.215,,,3.31147541
+24-12-2014,1.04,7671.67,391,RES_SF,CA,92227,imperial irrigation district,,Yuma Solar,0,,270,20,REC Solar,REC260PE2,,Multi-c-Si,0.16394684,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,,,7.376605769
+24-12-2014,3.43,13514.2,1323,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,270,14,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+24-12-2014,3.43,13514.2,1272,RES_SF,CA,92251,imperial irrigation district,,Sungevity,0,,269,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+24-12-2014,3.43,13514.2,1444,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,180,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+24-12-2014,3.43,13514.2,1287,RES_SF,CA,92249,imperial irrigation district,,Sungevity,0,,270,13,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+06-01-2015,9.81,56641,3925,RES_SF,CA,92203,imperial irrigation district,,Revco Solar,0,,180,18,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus a 10.0 [240v],10,,,5.773802243
+08-01-2015,4.335,22108.5,1647,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,89,18,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,Power-One,pvi-3.6-outd-s-us [240v],3.6,,,5.1
+12-01-2015,10.464,54343,4241,RES_SF,CA,92203,imperial irrigation district,,Revco Solar,0,,180,18,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus a 10.0 [240v],10,,,5.193329511
+13-01-2015,6.12,31212,2139,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,90,23,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,SolarEdge Technologies Ltd.,se5000 [240v],4.99,,,5.1
+13-01-2015,5.886,33284,2597,RES_SF,CA,92211,imperial irrigation district,,Revco Solar,0,,190,18,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus a 6.0 [240v],6,,,5.65477404
+21-01-2015,30.8,109056,7500,RES_SF,CA,92211,imperial irrigation district,,Driven Electric,0,,180,30,-1,-1,,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,,,3.540779221
+27-01-2015,5.886,26677,2579,RES_SF,CA,92251,imperial irrigation district,,Yuma Solar,0,,180,18,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Power-One,pvi-5000-outd-us-a [240v],5,,,4.532279986
+27-01-2015,6.24,23604.61,2646,RES_SF,CA,92251,imperial irrigation district,,Yuma Solar,0,,180,20,REC Solar,REC260PE2,,Multi-c-Si,0.16394684,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,,,3.782790064
+29-01-2015,9.18,46818,3409,RES_SF,CA,92236,imperial irrigation district,,Tesla,0,,270,18,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,Fronius USA,ig plus a 7.5 [240v],7.5,,,5.1
+04-02-2015,3.27,16841,1335,RES_SF,CA,92211,imperial irrigation district,,Hot Purple Energy,0,,120,10,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,Fronius USA,ig plus v 3.0 [240v],3,,,5.150152905
+04-02-2015,6,24000,2556,RES_SF,CA,92201,imperial irrigation district,,Solarmax,0,,180,21,SMX Capital,SMX250P,,Multi-c-Si,0.15397881,SolarEdge Technologies Ltd.,se6000 [240v],5.99,,,4
+04-02-2015,9.99,42000,4233,RES_SF,CA,92253,imperial irrigation district,,Lexcomm,0,,180,15,-1,-1,,-1,,Enphase Energy Inc.,m250-60-2ll-s2x (-zc) (-na) [240v],0.24,,,4.204204204
+04-02-2015,9.945,59513,3756,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,270,18,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,Fronius USA,ig plus a 7.5 [240v],7.5,,,5.984213172
+10-02-2015,11.445,45780,4380,RES_SF,CA,92203,imperial irrigation district,,Renova Energy,0,,270,19,SunPower,SPR-E20-327,,Mono-c-Si,0.2006135,Fronius USA,ig plus a 10.0 [240v],10,,,4
+10-02-2015,9.156,44864.4,3974,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,180,10,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SMA America,sb9000tl-us [240v],9,,,4.9
+17-02-2015,10.455,36414,3803,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,269,18,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-3.6-outd-s-us-z-a [240v],3.6,,,3.482926829
+17-02-2015,7.65,39015,2730,RES_SF,CA,92236,imperial irrigation district,,Tesla,0,,90,14,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-6000-outd-us-z-a [240v],6,,,5.1
+19-02-2015,3.575,17544,1385,RES_SF,CA,92241,imperial irrigation district,,Sungevity,0,,195,4,-1,-1,,-1,,SMA America,sb3000tl-us-22 [240v],3.05,,,4.907412587
+19-02-2015,9.6,54941,4155,RES_SF,CA,92203,imperial irrigation district,,Revco Solar,0,,148,18,SunPower,SPR-320NE-WHT-D,,Mono-c-Si,0.19623306,Fronius USA,ig plus a 10.0 [240v],10,,,5.723020833
+24-02-2015,8.16,41616,3224,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,208,18,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,SolarEdge Technologies Ltd.,se3800 [240v],3.79,,,5.1
+24-02-2015,8.67,44217,3150,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,90,23,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-3.6-outd-s-us-z-a [240v],3.6,,,5.1
+24-02-2015,4.335,22108.5,1636,RES_SF,CA,92254,imperial irrigation district,,Tesla,0,,90,18,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-3.6-outd-s-us-z-a [240v],3.6,,,5.1
+25-02-2015,5.07,36736,5645.14,RES_SF,CA,92247,imperial irrigation district,,Tesla,0,,180,18,-1,-1,,-1,,Xantrex Technology,gt5.0-na-240/208 [240v],5,,,7.245759369
+25-02-2015,6.885,35251.2,2594,RES_SF,CA,92236,imperial irrigation district,,Tesla,0,,180,22,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-6000-outd-us-z-a [240v],6,,,5.12
+25-02-2015,5.1,26010,2221,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,180,22,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-4.2-outd-s-us-z-a [240v],4.2,,,5.1
+25-02-2015,10.965,55921.5,4021,RES_SF,CA,92203,imperial irrigation district,,Tesla,0,,90,24,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,SolarEdge Technologies Ltd.,se5000 [240v],4.99,,,5.1
+25-02-2015,7.65,39015,2184,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,90,18,Trina Solar,TSM-255PA05.18,,Multi-c-Si,0.15756741,SolarEdge Technologies Ltd.,se6000 [240v],5.99,,,5.1
+25-02-2015,4.59,23500.8,1731,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,270,16,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-3.0-outd-s-us-z-a [240v],3,,,5.12
+25-02-2015,10.08,46080,15075,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,86,19,SunPower,SPR-315NE-WHT-D,,Mono-c-Si,0.19316693,Fronius USA,ig plus v 10.0 [240v],10,,,4.571428571
+25-02-2015,7.14,36556.8,2873,RES_SF,CA,92201,imperial irrigation district,,Tesla,0,,179,18,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-6000-outd-us-z-a [240v],6,,,5.12
+03-03-2015,14.025,71527.5,5126,RES_SF,CA,92236,imperial irrigation district,,Tesla,0,,180,18,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-4.2-outd-s-us-z-a [240v],4.2,,,5.1
+03-03-2015,9.18,46818,3395,RES_SF,CA,92236,imperial irrigation district,,Tesla,0,,270,18,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,Fronius USA,ig plus a 7.5 [240v],7.5,,,5.1
+03-03-2015,14.388,75537,22801,RES_SF,CA,92253,imperial irrigation district,,Tesla,0,,90,14,SunPower,SPR-327NE-WHT-D,,Mono-c-Si,0.20052566,SunPower,spr-8000m [240v],7.6,,,5.25
+03-03-2015,7.14,36556.8,2836,RES_SF,CA,92236,imperial irrigation district,,Tesla,0,,243,14,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-6000-outd-us-z-a [240v],6,,,5.12
+04-03-2015,3.43,14337.4,1379,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,243,18,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+04-03-2015,3.43,13514.2,1428,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,140,20,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+04-03-2015,3.43,14337.4,1486,RES_SF,CA,92231,imperial irrigation district,,Sungevity,0,,180,15,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+04-03-2015,3.43,14337.4,1320,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,270,15,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,4.18
+04-03-2015,3.43,13514.2,1446,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,226,20,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+04-03-2015,3.43,13514.2,1453,RES_SF,CA,92227,imperial irrigation district,,Sungevity,0,,135,19,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+04-03-2015,3.43,13514.2,1436,RES_SF,CA,92243,imperial irrigation district,,Sungevity,0,,179,15,Trina Solar,TSM-245PA05.05,,Multi-c-Si,0.15138829,SMA America,sb3000tl-us-22 [240v],3.05,,,3.94
+04-03-2015,10.92,30069.47,4394,RES_SF,CA,92281,imperial irrigation district,,Yuma Solar,0,,240,20,REC Solar,REC260PE2,,Multi-c-Si,0.16394684,Fronius USA,ig plus a 10.0 [240v],10,,,2.753614469
+04-03-2015,13.52,48759.8,5609,RES,CA,92243,imperial irrigation district,,Yuma Solar,0,,180,10,REC Solar,REC260PE2,,Multi-c-Si,0.16394684,Fronius USA,ig plus a 7.5 [240v],7.5,,,3.606494083
+05-03-2015,7.395,37714.5,2866,RES_SF,CA,92211,imperial irrigation district,,Tesla,0,,90,22,Kyocera Solar,KD255GX-LFB3,,Multi-c-Si,0.1607562,ABB,pvi-6000-outd-us-z-a [240v],6,,,5.1
